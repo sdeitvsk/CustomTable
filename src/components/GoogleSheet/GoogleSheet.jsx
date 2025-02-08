@@ -10,17 +10,48 @@ function GoogleSheet() {
   const [sortConfig, setSortConfig] = useState({ key: null, direction: 'asc' });
   const [selectedCell, setSelectedCell] = useState(null);
   const [showFilters, setShowFilters] = useState({});
+  const [summaryType, setSummaryType] = useState({});
+  const [openSummaryDropdown, setOpenSummaryDropdown] = useState(null);
 
   const columns = [
-    { id: 'BatchNo', header: 'Batch No', type: 'number' },
+    { id: 'BatchNo', header: 'Batch No', type: 'number', showSummary: true, defaultSummary: 'count' },
     { id: 'Date', header: 'Date', type: 'date' },
     { id: 'Descr', header: 'Description', type: 'text' },
     { id: 'AC_Sub', header: 'Account Sub', type: 'text' },
     { id: 'ACNO', header: 'Account No', type: 'text' },
     { id: 'Status', header: 'Status', type: 'text' },
-    { id: 'Debit', header: 'Debit', type: 'number' },
-    { id: 'Credit', header: 'Credit', type: 'number' }
+    { id: 'Debit', header: 'Debit', type: 'number', showSummary: true, defaultSummary: 'sum' },
+    { id: 'Credit', header: 'Credit', type: 'number', showSummary: true, defaultSummary: 'sum' }
   ];
+
+  const summaryOptions = [
+    { id: 'sum', label: 'Sum' },
+    { id: 'avg', label: 'Average' },
+    { id: 'count', label: 'Count' }
+  ];
+
+  useEffect(() => {
+    // Set default summary type for columns with showSummary
+    const defaultSummary = {};
+    columns.forEach(column => {
+      if (column.showSummary) {
+        defaultSummary[column.id] = column.defaultSummary || 'sum';
+      }
+    });
+    setSummaryType(defaultSummary);
+  }, []);
+
+  // Close dropdown when clicking outside
+  useEffect(() => {
+    const handleClickOutside = (event) => {
+      if (openSummaryDropdown && !event.target.closest('.summary-dropdown-container')) {
+        setOpenSummaryDropdown(null);
+      }
+    };
+
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => document.removeEventListener('mousedown', handleClickOutside);
+  }, [openSummaryDropdown]);
 
   const formatCellValue = (value, type) => {
     if (!value) return '';
@@ -32,6 +63,26 @@ function GoogleSheet() {
       default:
         return value;
     }
+  };
+
+  const calculateSummary = (columnId, type = 'sum') => {
+    const values = filteredAndSortedData.map(row => Number(row[columnId]) || 0);
+    
+    switch (type) {
+      case 'sum':
+        return values.reduce((sum, val) => sum + val, 0);
+      case 'avg':
+        return values.length ? values.reduce((sum, val) => sum + val, 0) / values.length : 0;
+      case 'count':
+        return values.length;
+      default:
+        return 0;
+    }
+  };
+
+  const getSummaryLabel = (column, type) => {
+    const summaryType = type.charAt(0).toUpperCase() + type.slice(1);
+    return `${summaryType} of ${column.header}`;
   };
 
   const handleSort = (key) => {
@@ -56,6 +107,18 @@ function GoogleSheet() {
     }));
   };
 
+  const handleSummaryTypeChange = (columnId, type) => {
+    setSummaryType(prev => ({
+      ...prev,
+      [columnId]: type
+    }));
+    setOpenSummaryDropdown(null);
+  };
+
+  const toggleSummaryDropdown = (columnId) => {
+    setOpenSummaryDropdown(openSummaryDropdown === columnId ? null : columnId);
+  };
+
   const applyNumericFilter = (value, filterValue, column) => {
     if (!filterValue) return true;
     
@@ -70,7 +133,6 @@ function GoogleSheet() {
     } else if (operator === '=' && !isNaN(filterNum)) {
       return numValue === filterNum;
     } else if (!isNaN(Number(filterValue))) {
-      // If no operator is provided, default to contains
       return String(value).includes(filterValue);
     }
 
@@ -80,7 +142,6 @@ function GoogleSheet() {
   const filteredAndSortedData = React.useMemo(() => {
     let result = [...data];
 
-    // Apply filters
     Object.keys(filters).forEach(key => {
       if (filters[key]) {
         const column = columns.find(col => col.id === key);
@@ -95,7 +156,6 @@ function GoogleSheet() {
       }
     });
 
-    // Apply sorting
     if (sortConfig.key) {
       result.sort((a, b) => {
         if (a[sortConfig.key] < b[sortConfig.key]) {
@@ -126,7 +186,7 @@ function GoogleSheet() {
       {/* Table Container */}
       <div className="flex-1 overflow-auto">
         <table className="w-full border-collapse bg-white">
-          <thead className="sticky top-0 bg-white">
+          <thead className="sticky top-0 bg-white z-10">
             <tr>
               {columns.map((column) => (
                 <th
@@ -155,7 +215,7 @@ function GoogleSheet() {
                   
                   {/* Filter dropdown */}
                   {showFilters[column.id] && (
-                    <div className="absolute top-full left-0 mt-1 w-48 bg-white border border-gray-200 rounded-lg shadow-lg z-10">
+                    <div className="absolute top-full left-0 mt-1 w-48 bg-white border border-gray-200 rounded-lg shadow-lg z-20">
                       <div className="p-2">
                         <input
                           type="text"
@@ -213,6 +273,55 @@ function GoogleSheet() {
             </button>
           </div>
         )}
+      </div>
+
+      {/* Summary Footer - Always visible */}
+      <div className="sticky bottom-0 bg-gray-100 border-t border-gray-200 shadow-md">
+        <table className="w-full">
+          <tbody>
+            <tr className="font-medium">
+              {columns.map((column) => (
+                <td
+                  key={column.id}
+                  className={`p-2 border-r border-gray-200 ${
+                    column.type === 'number' ? 'text-right' : ''
+                  }`}
+                >
+                  {column.showSummary && (
+                    <div className="flex flex-col summary-dropdown-container">
+                      <div className="relative">
+                        <button
+                          onClick={() => toggleSummaryDropdown(column.id)}
+                          className="flex items-center justify-between w-full text-xs text-gray-500 mb-1 hover:text-gray-700"
+                        >
+                          <span>{getSummaryLabel(column, summaryType[column.id] || column.defaultSummary || 'sum')}</span>
+                          <ChevronDown className="h-3 w-3 ml-1" />
+                        </button>
+                        {/* Summary type dropdown */}
+                        {openSummaryDropdown === column.id && (
+                          <div className="absolute bottom-full left-0 mb-1 w-32 bg-white border border-gray-200 rounded-md shadow-lg z-30">
+                            {summaryOptions.map(option => (
+                              <button
+                                key={option.id}
+                                className="w-full px-3 py-1 text-left text-sm hover:bg-gray-100"
+                                onClick={() => handleSummaryTypeChange(column.id, option.id)}
+                              >
+                                {getSummaryLabel(column, option.id)}
+                              </button>
+                            ))}
+                          </div>
+                        )}
+                      </div>
+                      <span className="text-gray-900">
+                        {formatNumber(calculateSummary(column.id, summaryType[column.id] || column.defaultSummary || 'sum'))}
+                      </span>
+                    </div>
+                  )}
+                </td>
+              ))}
+            </tr>
+          </tbody>
+        </table>
       </div>
     </div>
   );
