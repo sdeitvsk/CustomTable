@@ -1,0 +1,3004 @@
+{
+  "transactions": [
+    {
+      "BatchNo": 1,
+      "Date": "2023-02-19T14:36:34.501Z",
+      "Descr": "AXIS TRANSACTION n6hv8l",
+      "AC_Sub": "CASH",
+      "ACNO": "n6hv8l",
+      "Status": "inactive",
+      "Debit": "740719",
+      "Credit": "429054"
+    },
+    {
+      "BatchNo": 1,
+      "Date": "2023-07-01T09:20:11.016Z",
+      "Descr": "UNION TRANSACTION kzrxh7",
+      "AC_Sub": "CASH",
+      "ACNO": "kzrxh7",
+      "Status": "inactive",
+      "Debit": "188209",
+      "Credit": "499259"
+    },
+    {
+      "BatchNo": 1,
+      "Date": "2024-08-03T16:30:49.652Z",
+      "Descr": "AXIS TRANSACTION 07agqv",
+      "AC_Sub": "CASH",
+      "ACNO": "07agqv",
+      "Status": "inactive",
+      "Debit": "1984398",
+      "Credit": "459530"
+    },
+    {
+      "BatchNo": 1,
+      "Date": "2023-04-05T21:53:37.506Z",
+      "Descr": "ICICI TRANSACTION vtgzu6",
+      "AC_Sub": "BANK",
+      "ACNO": "vtgzu6",
+      "Status": "pending",
+      "Debit": "1533607",
+      "Credit": "72563"
+    },
+    {
+      "BatchNo": 1,
+      "Date": "2023-10-08T21:16:54.078Z",
+      "Descr": "PNB TRANSACTION 4ldc8m",
+      "AC_Sub": "BANK",
+      "ACNO": "4ldc8m",
+      "Status": "active",
+      "Debit": "510452",
+      "Credit": "464221"
+    },
+    {
+      "BatchNo": 1,
+      "Date": "2023-10-10T19:49:44.510Z",
+      "Descr": "ICICI TRANSACTION ptk66a",
+      "AC_Sub": "LT",
+      "ACNO": "ptk66a",
+      "Status": "active",
+      "Debit": "1688320",
+      "Credit": "64081"
+    },
+    {
+      "BatchNo": 1,
+      "Date": "2024-12-03T20:18:09.513Z",
+      "Descr": "HDFC TRANSACTION pocl42",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "pocl42",
+      "Status": "pending",
+      "Debit": "21978",
+      "Credit": "61377"
+    },
+    {
+      "BatchNo": 1,
+      "Date": "2024-11-28T17:57:12.494Z",
+      "Descr": "HDFC TRANSACTION q9zpb0",
+      "AC_Sub": "CASH",
+      "ACNO": "q9zpb0",
+      "Status": "active",
+      "Debit": "566321",
+      "Credit": "218690"
+    },
+    {
+      "BatchNo": 1,
+      "Date": "2023-05-12T14:37:00.717Z",
+      "Descr": "UNION TRANSACTION 0dio9p",
+      "AC_Sub": "CURRENT",
+      "ACNO": "0dio9p",
+      "Status": "inactive",
+      "Debit": "1391539",
+      "Credit": "199077"
+    },
+    {
+      "BatchNo": 1,
+      "Date": "2024-05-27T21:06:58.231Z",
+      "Descr": "SBI TRANSACTION sqdgso",
+      "AC_Sub": "BANK",
+      "ACNO": "sqdgso",
+      "Status": "pending",
+      "Debit": "1430130",
+      "Credit": "306302"
+    },
+    {
+      "BatchNo": 2,
+      "Date": "2023-01-22T13:18:05.420Z",
+      "Descr": "AXIS TRANSACTION 2dsu7j",
+      "AC_Sub": "ST",
+      "ACNO": "2dsu7j",
+      "Status": "active",
+      "Debit": "982458",
+      "Credit": "224855"
+    },
+    {
+      "BatchNo": 2,
+      "Date": "2024-12-02T17:21:07.669Z",
+      "Descr": "AXIS TRANSACTION 7x4t88",
+      "AC_Sub": "BANK",
+      "ACNO": "7x4t88",
+      "Status": "pending",
+      "Debit": "1028306",
+      "Credit": "125635"
+    },
+    {
+      "BatchNo": 2,
+      "Date": "2024-01-12T06:40:14.016Z",
+      "Descr": "PNB TRANSACTION hrz0kx",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "hrz0kx",
+      "Status": "inactive",
+      "Debit": "1046934",
+      "Credit": "125064"
+    },
+    {
+      "BatchNo": 2,
+      "Date": "2024-08-16T10:49:38.942Z",
+      "Descr": "HDFC TRANSACTION 8pqhfo",
+      "AC_Sub": "LOAN",
+      "ACNO": "8pqhfo",
+      "Status": "active",
+      "Debit": "261824",
+      "Credit": "23300"
+    },
+    {
+      "BatchNo": 2,
+      "Date": "2023-06-17T03:05:45.062Z",
+      "Descr": "AXIS TRANSACTION hk7bx2",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "hk7bx2",
+      "Status": "inactive",
+      "Debit": "1127171",
+      "Credit": "165945"
+    },
+    {
+      "BatchNo": 2,
+      "Date": "2023-10-01T09:55:42.021Z",
+      "Descr": "HDFC TRANSACTION tpg8sd",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "tpg8sd",
+      "Status": "inactive",
+      "Debit": "833685",
+      "Credit": "457653"
+    },
+    {
+      "BatchNo": 2,
+      "Date": "2024-04-26T19:05:31.982Z",
+      "Descr": "SBI TRANSACTION ouvzjw",
+      "AC_Sub": "BANK",
+      "ACNO": "ouvzjw",
+      "Status": "pending",
+      "Debit": "501652",
+      "Credit": "276350"
+    },
+    {
+      "BatchNo": 2,
+      "Date": "2024-11-30T22:08:09.585Z",
+      "Descr": "SBI TRANSACTION k7d97w",
+      "AC_Sub": "CASH",
+      "ACNO": "k7d97w",
+      "Status": "inactive",
+      "Debit": "1984862",
+      "Credit": "262465"
+    },
+    {
+      "BatchNo": 2,
+      "Date": "2024-05-09T03:51:16.618Z",
+      "Descr": "UNION TRANSACTION 8rnuj8",
+      "AC_Sub": "LT",
+      "ACNO": "8rnuj8",
+      "Status": "pending",
+      "Debit": "1460530",
+      "Credit": "314590"
+    },
+    {
+      "BatchNo": 2,
+      "Date": "2024-01-24T17:59:15.615Z",
+      "Descr": "HDFC TRANSACTION hz0lyj",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "hz0lyj",
+      "Status": "pending",
+      "Debit": "1202968",
+      "Credit": "485903"
+    },
+    {
+      "BatchNo": 3,
+      "Date": "2024-12-18T20:06:38.263Z",
+      "Descr": "HDFC TRANSACTION zw4hdh",
+      "AC_Sub": "LT",
+      "ACNO": "zw4hdh",
+      "Status": "inactive",
+      "Debit": "754398",
+      "Credit": "55665"
+    },
+    {
+      "BatchNo": 3,
+      "Date": "2023-06-03T08:36:36.205Z",
+      "Descr": "ICICI TRANSACTION eiw1yh",
+      "AC_Sub": "CURRENT",
+      "ACNO": "eiw1yh",
+      "Status": "active",
+      "Debit": "1857295",
+      "Credit": "146921"
+    },
+    {
+      "BatchNo": 3,
+      "Date": "2023-04-02T19:07:31.992Z",
+      "Descr": "AXIS TRANSACTION 6pjp93",
+      "AC_Sub": "ST",
+      "ACNO": "6pjp93",
+      "Status": "active",
+      "Debit": "779640",
+      "Credit": "411930"
+    },
+    {
+      "BatchNo": 3,
+      "Date": "2024-09-13T20:31:20.279Z",
+      "Descr": "SBI TRANSACTION fho83d",
+      "AC_Sub": "BANK",
+      "ACNO": "fho83d",
+      "Status": "pending",
+      "Debit": "1992541",
+      "Credit": "357369"
+    },
+    {
+      "BatchNo": 3,
+      "Date": "2024-06-05T07:56:25.269Z",
+      "Descr": "SBI TRANSACTION eqp1a8",
+      "AC_Sub": "LOAN",
+      "ACNO": "eqp1a8",
+      "Status": "active",
+      "Debit": "1060628",
+      "Credit": "491987"
+    },
+    {
+      "BatchNo": 3,
+      "Date": "2024-11-20T00:00:03.692Z",
+      "Descr": "PNB TRANSACTION z8mqbx",
+      "AC_Sub": "LOAN",
+      "ACNO": "z8mqbx",
+      "Status": "active",
+      "Debit": "228065",
+      "Credit": "140543"
+    },
+    {
+      "BatchNo": 3,
+      "Date": "2024-06-13T12:03:16.482Z",
+      "Descr": "PNB TRANSACTION ksrc69",
+      "AC_Sub": "BANK",
+      "ACNO": "ksrc69",
+      "Status": "active",
+      "Debit": "1031971",
+      "Credit": "163670"
+    },
+    {
+      "BatchNo": 3,
+      "Date": "2023-01-16T16:32:32.128Z",
+      "Descr": "ICICI TRANSACTION unid05",
+      "AC_Sub": "CURRENT",
+      "ACNO": "unid05",
+      "Status": "pending",
+      "Debit": "288926",
+      "Credit": "310258"
+    },
+    {
+      "BatchNo": 3,
+      "Date": "2024-07-28T10:15:59.454Z",
+      "Descr": "AXIS TRANSACTION q2v0hm",
+      "AC_Sub": "LOAN",
+      "ACNO": "q2v0hm",
+      "Status": "pending",
+      "Debit": "1421358",
+      "Credit": "266131"
+    },
+    {
+      "BatchNo": 3,
+      "Date": "2023-07-25T22:45:43.213Z",
+      "Descr": "PNB TRANSACTION dc3ygx",
+      "AC_Sub": "LT",
+      "ACNO": "dc3ygx",
+      "Status": "active",
+      "Debit": "982697",
+      "Credit": "424811"
+    },
+    {
+      "BatchNo": 4,
+      "Date": "2024-02-12T20:50:47.829Z",
+      "Descr": "AXIS TRANSACTION w6jcsv",
+      "AC_Sub": "LOAN",
+      "ACNO": "w6jcsv",
+      "Status": "inactive",
+      "Debit": "518120",
+      "Credit": "8157"
+    },
+    {
+      "BatchNo": 4,
+      "Date": "2024-12-05T00:16:42.890Z",
+      "Descr": "HDFC TRANSACTION 1x73lr",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "1x73lr",
+      "Status": "pending",
+      "Debit": "1949096",
+      "Credit": "24621"
+    },
+    {
+      "BatchNo": 4,
+      "Date": "2025-01-26T08:58:20.922Z",
+      "Descr": "SBI TRANSACTION 4v5duu",
+      "AC_Sub": "LOAN",
+      "ACNO": "4v5duu",
+      "Status": "pending",
+      "Debit": "3711",
+      "Credit": "43952"
+    },
+    {
+      "BatchNo": 4,
+      "Date": "2023-03-15T07:28:18.205Z",
+      "Descr": "PNB TRANSACTION xkwfk2",
+      "AC_Sub": "LT",
+      "ACNO": "xkwfk2",
+      "Status": "inactive",
+      "Debit": "1648294",
+      "Credit": "2462"
+    },
+    {
+      "BatchNo": 4,
+      "Date": "2024-10-12T11:20:55.123Z",
+      "Descr": "ICICI TRANSACTION ylsu64",
+      "AC_Sub": "CURRENT",
+      "ACNO": "ylsu64",
+      "Status": "active",
+      "Debit": "1716511",
+      "Credit": "262294"
+    },
+    {
+      "BatchNo": 4,
+      "Date": "2023-05-09T13:55:15.211Z",
+      "Descr": "SBI TRANSACTION zze1ll",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "zze1ll",
+      "Status": "pending",
+      "Debit": "940681",
+      "Credit": "414767"
+    },
+    {
+      "BatchNo": 4,
+      "Date": "2025-01-06T12:08:38.835Z",
+      "Descr": "SBI TRANSACTION bb805v",
+      "AC_Sub": "CASH",
+      "ACNO": "bb805v",
+      "Status": "inactive",
+      "Debit": "1791900",
+      "Credit": "484117"
+    },
+    {
+      "BatchNo": 4,
+      "Date": "2023-05-14T21:57:33.506Z",
+      "Descr": "PNB TRANSACTION zrujzy",
+      "AC_Sub": "LT",
+      "ACNO": "zrujzy",
+      "Status": "active",
+      "Debit": "576572",
+      "Credit": "267711"
+    },
+    {
+      "BatchNo": 4,
+      "Date": "2023-10-04T22:23:03.301Z",
+      "Descr": "SBI TRANSACTION pbwddw",
+      "AC_Sub": "CURRENT",
+      "ACNO": "pbwddw",
+      "Status": "active",
+      "Debit": "859354",
+      "Credit": "390061"
+    },
+    {
+      "BatchNo": 4,
+      "Date": "2023-12-31T03:06:21.715Z",
+      "Descr": "UNION TRANSACTION pp3mjs",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "pp3mjs",
+      "Status": "inactive",
+      "Debit": "886621",
+      "Credit": "173017"
+    },
+    {
+      "BatchNo": 5,
+      "Date": "2023-07-22T03:55:57.171Z",
+      "Descr": "UNION TRANSACTION 9qlv33",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "9qlv33",
+      "Status": "active",
+      "Debit": "1170554",
+      "Credit": "124454"
+    },
+    {
+      "BatchNo": 5,
+      "Date": "2023-09-20T23:42:25.653Z",
+      "Descr": "BOB TRANSACTION jattnt",
+      "AC_Sub": "LT",
+      "ACNO": "jattnt",
+      "Status": "active",
+      "Debit": "477572",
+      "Credit": "270551"
+    },
+    {
+      "BatchNo": 5,
+      "Date": "2023-05-18T17:23:16.109Z",
+      "Descr": "AXIS TRANSACTION pywy1t",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "pywy1t",
+      "Status": "pending",
+      "Debit": "282184",
+      "Credit": "52181"
+    },
+    {
+      "BatchNo": 5,
+      "Date": "2023-08-03T15:57:43.251Z",
+      "Descr": "BOB TRANSACTION fgve59",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "fgve59",
+      "Status": "active",
+      "Debit": "666236",
+      "Credit": "140448"
+    },
+    {
+      "BatchNo": 5,
+      "Date": "2024-08-29T11:49:26.426Z",
+      "Descr": "BOB TRANSACTION oe1wwh",
+      "AC_Sub": "BANK",
+      "ACNO": "oe1wwh",
+      "Status": "inactive",
+      "Debit": "979958",
+      "Credit": "109196"
+    },
+    {
+      "BatchNo": 5,
+      "Date": "2023-09-11T06:50:11.494Z",
+      "Descr": "AXIS TRANSACTION 3b9dsj",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "3b9dsj",
+      "Status": "active",
+      "Debit": "1856439",
+      "Credit": "160707"
+    },
+    {
+      "BatchNo": 5,
+      "Date": "2023-08-10T15:41:59.134Z",
+      "Descr": "UNION TRANSACTION w471po",
+      "AC_Sub": "ST",
+      "ACNO": "w471po",
+      "Status": "active",
+      "Debit": "983158",
+      "Credit": "483219"
+    },
+    {
+      "BatchNo": 5,
+      "Date": "2023-09-16T19:03:08.799Z",
+      "Descr": "SBI TRANSACTION wypjvb",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "wypjvb",
+      "Status": "active",
+      "Debit": "392084",
+      "Credit": "330007"
+    },
+    {
+      "BatchNo": 5,
+      "Date": "2024-12-26T14:40:11.444Z",
+      "Descr": "PNB TRANSACTION kq6ffu",
+      "AC_Sub": "CASH",
+      "ACNO": "kq6ffu",
+      "Status": "inactive",
+      "Debit": "1999349",
+      "Credit": "419499"
+    },
+    {
+      "BatchNo": 5,
+      "Date": "2024-06-18T02:35:06.213Z",
+      "Descr": "HDFC TRANSACTION ta7d7s",
+      "AC_Sub": "CASH",
+      "ACNO": "ta7d7s",
+      "Status": "pending",
+      "Debit": "876300",
+      "Credit": "112361"
+    },
+    {
+      "BatchNo": 6,
+      "Date": "2023-10-19T06:30:54.603Z",
+      "Descr": "UNION TRANSACTION udlacu",
+      "AC_Sub": "BANK",
+      "ACNO": "udlacu",
+      "Status": "active",
+      "Debit": "1573553",
+      "Credit": "188322"
+    },
+    {
+      "BatchNo": 6,
+      "Date": "2023-04-05T07:51:11.557Z",
+      "Descr": "BOB TRANSACTION pg7m9h",
+      "AC_Sub": "LT",
+      "ACNO": "pg7m9h",
+      "Status": "inactive",
+      "Debit": "1701318",
+      "Credit": "450548"
+    },
+    {
+      "BatchNo": 6,
+      "Date": "2024-01-30T06:26:06.223Z",
+      "Descr": "ICICI TRANSACTION 7cilzt",
+      "AC_Sub": "LT",
+      "ACNO": "7cilzt",
+      "Status": "pending",
+      "Debit": "237544",
+      "Credit": "251153"
+    },
+    {
+      "BatchNo": 6,
+      "Date": "2024-06-03T07:57:35.678Z",
+      "Descr": "PNB TRANSACTION 39nosi",
+      "AC_Sub": "CURRENT",
+      "ACNO": "39nosi",
+      "Status": "inactive",
+      "Debit": "1916610",
+      "Credit": "389672"
+    },
+    {
+      "BatchNo": 6,
+      "Date": "2024-07-22T17:51:21.877Z",
+      "Descr": "BOB TRANSACTION axpzz6",
+      "AC_Sub": "CASH",
+      "ACNO": "axpzz6",
+      "Status": "inactive",
+      "Debit": "1709782",
+      "Credit": "36509"
+    },
+    {
+      "BatchNo": 6,
+      "Date": "2023-05-08T11:30:13.789Z",
+      "Descr": "SBI TRANSACTION 9wkvoi",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "9wkvoi",
+      "Status": "pending",
+      "Debit": "732349",
+      "Credit": "274755"
+    },
+    {
+      "BatchNo": 6,
+      "Date": "2023-05-09T14:34:38.990Z",
+      "Descr": "BOB TRANSACTION 055sf0",
+      "AC_Sub": "BANK",
+      "ACNO": "055sf0",
+      "Status": "inactive",
+      "Debit": "524042",
+      "Credit": "325742"
+    },
+    {
+      "BatchNo": 6,
+      "Date": "2024-08-22T12:55:26.667Z",
+      "Descr": "BOB TRANSACTION r9isac",
+      "AC_Sub": "LT",
+      "ACNO": "r9isac",
+      "Status": "pending",
+      "Debit": "9193",
+      "Credit": "437544"
+    },
+    {
+      "BatchNo": 6,
+      "Date": "2024-07-23T11:36:48.435Z",
+      "Descr": "PNB TRANSACTION kotxak",
+      "AC_Sub": "CASH",
+      "ACNO": "kotxak",
+      "Status": "inactive",
+      "Debit": "950328",
+      "Credit": "22485"
+    },
+    {
+      "BatchNo": 6,
+      "Date": "2025-01-01T15:06:24.338Z",
+      "Descr": "UNION TRANSACTION t55jes",
+      "AC_Sub": "BANK",
+      "ACNO": "t55jes",
+      "Status": "pending",
+      "Debit": "1547523",
+      "Credit": "458247"
+    },
+    {
+      "BatchNo": 7,
+      "Date": "2023-05-22T17:56:49.033Z",
+      "Descr": "HDFC TRANSACTION oz4bhq",
+      "AC_Sub": "ST",
+      "ACNO": "oz4bhq",
+      "Status": "pending",
+      "Debit": "1007594",
+      "Credit": "447504"
+    },
+    {
+      "BatchNo": 7,
+      "Date": "2023-12-02T16:23:50.060Z",
+      "Descr": "ICICI TRANSACTION dxg0ql",
+      "AC_Sub": "CURRENT",
+      "ACNO": "dxg0ql",
+      "Status": "inactive",
+      "Debit": "1855944",
+      "Credit": "133501"
+    },
+    {
+      "BatchNo": 7,
+      "Date": "2023-08-04T15:28:42.302Z",
+      "Descr": "AXIS TRANSACTION nirhun",
+      "AC_Sub": "LT",
+      "ACNO": "nirhun",
+      "Status": "inactive",
+      "Debit": "1505272",
+      "Credit": "315700"
+    },
+    {
+      "BatchNo": 7,
+      "Date": "2024-01-09T21:01:53.037Z",
+      "Descr": "AXIS TRANSACTION x0e1jo",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "x0e1jo",
+      "Status": "active",
+      "Debit": "351006",
+      "Credit": "59653"
+    },
+    {
+      "BatchNo": 7,
+      "Date": "2023-05-05T22:26:22.854Z",
+      "Descr": "AXIS TRANSACTION 6uncem",
+      "AC_Sub": "ST",
+      "ACNO": "6uncem",
+      "Status": "pending",
+      "Debit": "1575844",
+      "Credit": "456199"
+    },
+    {
+      "BatchNo": 7,
+      "Date": "2023-08-02T06:55:00.641Z",
+      "Descr": "AXIS TRANSACTION g7u50w",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "g7u50w",
+      "Status": "pending",
+      "Debit": "283495",
+      "Credit": "137642"
+    },
+    {
+      "BatchNo": 7,
+      "Date": "2024-11-20T20:58:31.355Z",
+      "Descr": "UNION TRANSACTION qecfy9",
+      "AC_Sub": "LOAN",
+      "ACNO": "qecfy9",
+      "Status": "inactive",
+      "Debit": "280715",
+      "Credit": "363282"
+    },
+    {
+      "BatchNo": 7,
+      "Date": "2024-07-11T05:23:55.631Z",
+      "Descr": "SBI TRANSACTION a9bq89",
+      "AC_Sub": "LOAN",
+      "ACNO": "a9bq89",
+      "Status": "pending",
+      "Debit": "526825",
+      "Credit": "6507"
+    },
+    {
+      "BatchNo": 7,
+      "Date": "2023-04-11T12:56:29.718Z",
+      "Descr": "AXIS TRANSACTION 2vgipo",
+      "AC_Sub": "CURRENT",
+      "ACNO": "2vgipo",
+      "Status": "pending",
+      "Debit": "1928007",
+      "Credit": "108191"
+    },
+    {
+      "BatchNo": 7,
+      "Date": "2023-11-01T08:32:40.903Z",
+      "Descr": "AXIS TRANSACTION 7jxgln",
+      "AC_Sub": "BANK",
+      "ACNO": "7jxgln",
+      "Status": "pending",
+      "Debit": "610769",
+      "Credit": "156517"
+    },
+    {
+      "BatchNo": 8,
+      "Date": "2023-01-03T15:36:38.982Z",
+      "Descr": "UNION TRANSACTION cnlaqf",
+      "AC_Sub": "LOAN",
+      "ACNO": "cnlaqf",
+      "Status": "active",
+      "Debit": "1379342",
+      "Credit": "148125"
+    },
+    {
+      "BatchNo": 8,
+      "Date": "2024-07-26T15:52:57.009Z",
+      "Descr": "HDFC TRANSACTION sorxkx",
+      "AC_Sub": "BANK",
+      "ACNO": "sorxkx",
+      "Status": "pending",
+      "Debit": "1265379",
+      "Credit": "72617"
+    },
+    {
+      "BatchNo": 8,
+      "Date": "2024-08-22T01:38:33.248Z",
+      "Descr": "ICICI TRANSACTION sriwyi",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "sriwyi",
+      "Status": "inactive",
+      "Debit": "873440",
+      "Credit": "150817"
+    },
+    {
+      "BatchNo": 8,
+      "Date": "2024-03-02T15:43:49.532Z",
+      "Descr": "UNION TRANSACTION bn9kg1",
+      "AC_Sub": "LT",
+      "ACNO": "bn9kg1",
+      "Status": "pending",
+      "Debit": "564529",
+      "Credit": "429624"
+    },
+    {
+      "BatchNo": 8,
+      "Date": "2024-05-05T22:42:04.996Z",
+      "Descr": "BOB TRANSACTION k2th2o",
+      "AC_Sub": "ST",
+      "ACNO": "k2th2o",
+      "Status": "pending",
+      "Debit": "839468",
+      "Credit": "334364"
+    },
+    {
+      "BatchNo": 8,
+      "Date": "2023-10-16T14:11:45.391Z",
+      "Descr": "AXIS TRANSACTION fuwcfk",
+      "AC_Sub": "LOAN",
+      "ACNO": "fuwcfk",
+      "Status": "active",
+      "Debit": "873902",
+      "Credit": "82617"
+    },
+    {
+      "BatchNo": 8,
+      "Date": "2023-07-06T04:13:39.462Z",
+      "Descr": "ICICI TRANSACTION uvzfj7",
+      "AC_Sub": "CASH",
+      "ACNO": "uvzfj7",
+      "Status": "inactive",
+      "Debit": "1906256",
+      "Credit": "496826"
+    },
+    {
+      "BatchNo": 8,
+      "Date": "2023-11-13T04:24:30.804Z",
+      "Descr": "HDFC TRANSACTION fi3oqi",
+      "AC_Sub": "LT",
+      "ACNO": "fi3oqi",
+      "Status": "inactive",
+      "Debit": "1001847",
+      "Credit": "495902"
+    },
+    {
+      "BatchNo": 8,
+      "Date": "2023-07-25T04:48:00.403Z",
+      "Descr": "UNION TRANSACTION onixgo",
+      "AC_Sub": "ST",
+      "ACNO": "onixgo",
+      "Status": "pending",
+      "Debit": "1584951",
+      "Credit": "91653"
+    },
+    {
+      "BatchNo": 8,
+      "Date": "2024-05-15T02:54:20.375Z",
+      "Descr": "UNION TRANSACTION o8qglh",
+      "AC_Sub": "LT",
+      "ACNO": "o8qglh",
+      "Status": "active",
+      "Debit": "1374731",
+      "Credit": "283792"
+    },
+    {
+      "BatchNo": 9,
+      "Date": "2023-04-12T09:34:24.471Z",
+      "Descr": "AXIS TRANSACTION lmlklw",
+      "AC_Sub": "LT",
+      "ACNO": "lmlklw",
+      "Status": "active",
+      "Debit": "226829",
+      "Credit": "38219"
+    },
+    {
+      "BatchNo": 9,
+      "Date": "2023-10-07T15:30:50.768Z",
+      "Descr": "SBI TRANSACTION fxjt1y",
+      "AC_Sub": "CURRENT",
+      "ACNO": "fxjt1y",
+      "Status": "pending",
+      "Debit": "1695863",
+      "Credit": "182265"
+    },
+    {
+      "BatchNo": 9,
+      "Date": "2024-06-07T11:56:27.802Z",
+      "Descr": "AXIS TRANSACTION ytlcor",
+      "AC_Sub": "CURRENT",
+      "ACNO": "ytlcor",
+      "Status": "inactive",
+      "Debit": "1621837",
+      "Credit": "242447"
+    },
+    {
+      "BatchNo": 9,
+      "Date": "2023-02-01T10:09:50.335Z",
+      "Descr": "UNION TRANSACTION tw0kb5",
+      "AC_Sub": "LT",
+      "ACNO": "tw0kb5",
+      "Status": "active",
+      "Debit": "897924",
+      "Credit": "119625"
+    },
+    {
+      "BatchNo": 9,
+      "Date": "2023-02-15T05:35:58.770Z",
+      "Descr": "BOB TRANSACTION rqke2w",
+      "AC_Sub": "LT",
+      "ACNO": "rqke2w",
+      "Status": "pending",
+      "Debit": "691937",
+      "Credit": "435846"
+    },
+    {
+      "BatchNo": 9,
+      "Date": "2024-05-13T07:23:39.216Z",
+      "Descr": "AXIS TRANSACTION 1qci7d",
+      "AC_Sub": "CURRENT",
+      "ACNO": "1qci7d",
+      "Status": "active",
+      "Debit": "1333454",
+      "Credit": "372910"
+    },
+    {
+      "BatchNo": 9,
+      "Date": "2024-06-17T23:19:24.861Z",
+      "Descr": "UNION TRANSACTION 33bjsf",
+      "AC_Sub": "CURRENT",
+      "ACNO": "33bjsf",
+      "Status": "inactive",
+      "Debit": "95436",
+      "Credit": "4189"
+    },
+    {
+      "BatchNo": 9,
+      "Date": "2024-11-26T03:16:55.791Z",
+      "Descr": "SBI TRANSACTION tgbh9k",
+      "AC_Sub": "LOAN",
+      "ACNO": "tgbh9k",
+      "Status": "inactive",
+      "Debit": "8210",
+      "Credit": "255943"
+    },
+    {
+      "BatchNo": 9,
+      "Date": "2024-09-25T23:19:29.844Z",
+      "Descr": "UNION TRANSACTION 2uemdl",
+      "AC_Sub": "LOAN",
+      "ACNO": "2uemdl",
+      "Status": "pending",
+      "Debit": "126868",
+      "Credit": "308305"
+    },
+    {
+      "BatchNo": 9,
+      "Date": "2024-10-20T15:05:07.044Z",
+      "Descr": "HDFC TRANSACTION l4j55d",
+      "AC_Sub": "CASH",
+      "ACNO": "l4j55d",
+      "Status": "inactive",
+      "Debit": "1504421",
+      "Credit": "151893"
+    },
+    {
+      "BatchNo": 10,
+      "Date": "2024-03-01T00:09:11.957Z",
+      "Descr": "AXIS TRANSACTION jv0ewg",
+      "AC_Sub": "CURRENT",
+      "ACNO": "jv0ewg",
+      "Status": "pending",
+      "Debit": "233433",
+      "Credit": "306572"
+    },
+    {
+      "BatchNo": 10,
+      "Date": "2023-04-03T16:21:12.852Z",
+      "Descr": "HDFC TRANSACTION hbowfu",
+      "AC_Sub": "LOAN",
+      "ACNO": "hbowfu",
+      "Status": "active",
+      "Debit": "782931",
+      "Credit": "99285"
+    },
+    {
+      "BatchNo": 10,
+      "Date": "2024-04-30T20:38:46.339Z",
+      "Descr": "PNB TRANSACTION 8z4189",
+      "AC_Sub": "LT",
+      "ACNO": "8z4189",
+      "Status": "inactive",
+      "Debit": "376983",
+      "Credit": "106037"
+    },
+    {
+      "BatchNo": 10,
+      "Date": "2023-01-23T20:20:18.139Z",
+      "Descr": "SBI TRANSACTION flwrmn",
+      "AC_Sub": "CASH",
+      "ACNO": "flwrmn",
+      "Status": "inactive",
+      "Debit": "1682997",
+      "Credit": "67515"
+    },
+    {
+      "BatchNo": 10,
+      "Date": "2024-02-10T11:25:19.412Z",
+      "Descr": "AXIS TRANSACTION zs28gs",
+      "AC_Sub": "CURRENT",
+      "ACNO": "zs28gs",
+      "Status": "inactive",
+      "Debit": "1668380",
+      "Credit": "339071"
+    },
+    {
+      "BatchNo": 10,
+      "Date": "2023-02-06T09:17:13.625Z",
+      "Descr": "ICICI TRANSACTION gvn74e",
+      "AC_Sub": "LOAN",
+      "ACNO": "gvn74e",
+      "Status": "pending",
+      "Debit": "552940",
+      "Credit": "174380"
+    },
+    {
+      "BatchNo": 10,
+      "Date": "2024-04-17T12:10:26.682Z",
+      "Descr": "PNB TRANSACTION zp72t5",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "zp72t5",
+      "Status": "inactive",
+      "Debit": "1733799",
+      "Credit": "186542"
+    },
+    {
+      "BatchNo": 10,
+      "Date": "2023-10-10T02:24:03.987Z",
+      "Descr": "BOB TRANSACTION x56ol9",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "x56ol9",
+      "Status": "inactive",
+      "Debit": "1571033",
+      "Credit": "15797"
+    },
+    {
+      "BatchNo": 10,
+      "Date": "2024-01-05T16:33:12.668Z",
+      "Descr": "ICICI TRANSACTION tfcb7w",
+      "AC_Sub": "CASH",
+      "ACNO": "tfcb7w",
+      "Status": "active",
+      "Debit": "1597525",
+      "Credit": "26936"
+    },
+    {
+      "BatchNo": 10,
+      "Date": "2024-11-24T22:36:43.612Z",
+      "Descr": "BOB TRANSACTION cbckdd",
+      "AC_Sub": "BANK",
+      "ACNO": "cbckdd",
+      "Status": "pending",
+      "Debit": "724135",
+      "Credit": "319828"
+    },
+    {
+      "BatchNo": 11,
+      "Date": "2024-05-06T20:15:37.634Z",
+      "Descr": "BOB TRANSACTION 76g9fp",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "76g9fp",
+      "Status": "active",
+      "Debit": "1546055",
+      "Credit": "412873"
+    },
+    {
+      "BatchNo": 11,
+      "Date": "2023-06-14T12:15:40.195Z",
+      "Descr": "BOB TRANSACTION drtu2d",
+      "AC_Sub": "LOAN",
+      "ACNO": "drtu2d",
+      "Status": "active",
+      "Debit": "1385241",
+      "Credit": "50081"
+    },
+    {
+      "BatchNo": 11,
+      "Date": "2023-11-01T21:23:23.428Z",
+      "Descr": "ICICI TRANSACTION bj528m",
+      "AC_Sub": "LOAN",
+      "ACNO": "bj528m",
+      "Status": "inactive",
+      "Debit": "1664689",
+      "Credit": "108388"
+    },
+    {
+      "BatchNo": 11,
+      "Date": "2023-05-22T05:46:50.150Z",
+      "Descr": "PNB TRANSACTION xedgmu",
+      "AC_Sub": "BANK",
+      "ACNO": "xedgmu",
+      "Status": "pending",
+      "Debit": "1849185",
+      "Credit": "348744"
+    },
+    {
+      "BatchNo": 11,
+      "Date": "2024-11-03T13:52:42.855Z",
+      "Descr": "HDFC TRANSACTION cf8ipg",
+      "AC_Sub": "CURRENT",
+      "ACNO": "cf8ipg",
+      "Status": "inactive",
+      "Debit": "1947674",
+      "Credit": "469192"
+    },
+    {
+      "BatchNo": 11,
+      "Date": "2023-12-26T21:58:30.192Z",
+      "Descr": "HDFC TRANSACTION rljai3",
+      "AC_Sub": "CASH",
+      "ACNO": "rljai3",
+      "Status": "active",
+      "Debit": "1414806",
+      "Credit": "406597"
+    },
+    {
+      "BatchNo": 11,
+      "Date": "2024-03-25T03:04:16.559Z",
+      "Descr": "PNB TRANSACTION 7ftvjs",
+      "AC_Sub": "BANK",
+      "ACNO": "7ftvjs",
+      "Status": "inactive",
+      "Debit": "225384",
+      "Credit": "406686"
+    },
+    {
+      "BatchNo": 11,
+      "Date": "2024-09-29T02:11:49.010Z",
+      "Descr": "HDFC TRANSACTION i1g3zu",
+      "AC_Sub": "ST",
+      "ACNO": "i1g3zu",
+      "Status": "pending",
+      "Debit": "1470350",
+      "Credit": "305766"
+    },
+    {
+      "BatchNo": 11,
+      "Date": "2024-01-06T22:55:33.654Z",
+      "Descr": "AXIS TRANSACTION wth1e0",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "wth1e0",
+      "Status": "inactive",
+      "Debit": "119293",
+      "Credit": "37430"
+    },
+    {
+      "BatchNo": 11,
+      "Date": "2023-09-17T11:52:56.967Z",
+      "Descr": "ICICI TRANSACTION js6p0m",
+      "AC_Sub": "CASH",
+      "ACNO": "js6p0m",
+      "Status": "active",
+      "Debit": "1712527",
+      "Credit": "87886"
+    },
+    {
+      "BatchNo": 12,
+      "Date": "2024-12-21T06:40:17.023Z",
+      "Descr": "HDFC TRANSACTION 3x9vxe",
+      "AC_Sub": "LOAN",
+      "ACNO": "3x9vxe",
+      "Status": "active",
+      "Debit": "943065",
+      "Credit": "175723"
+    },
+    {
+      "BatchNo": 12,
+      "Date": "2023-11-19T03:56:46.726Z",
+      "Descr": "HDFC TRANSACTION 1cam2w",
+      "AC_Sub": "CURRENT",
+      "ACNO": "1cam2w",
+      "Status": "active",
+      "Debit": "966138",
+      "Credit": "388858"
+    },
+    {
+      "BatchNo": 12,
+      "Date": "2023-11-20T16:16:15.471Z",
+      "Descr": "BOB TRANSACTION k8yt2o",
+      "AC_Sub": "LOAN",
+      "ACNO": "k8yt2o",
+      "Status": "inactive",
+      "Debit": "1218840",
+      "Credit": "387098"
+    },
+    {
+      "BatchNo": 12,
+      "Date": "2023-02-06T04:47:50.513Z",
+      "Descr": "SBI TRANSACTION s0j80l",
+      "AC_Sub": "ST",
+      "ACNO": "s0j80l",
+      "Status": "inactive",
+      "Debit": "636922",
+      "Credit": "154428"
+    },
+    {
+      "BatchNo": 12,
+      "Date": "2024-02-27T11:52:07.849Z",
+      "Descr": "BOB TRANSACTION lcqq65",
+      "AC_Sub": "ST",
+      "ACNO": "lcqq65",
+      "Status": "pending",
+      "Debit": "660138",
+      "Credit": "154860"
+    },
+    {
+      "BatchNo": 12,
+      "Date": "2023-05-30T22:51:17.851Z",
+      "Descr": "UNION TRANSACTION x8p1bd",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "x8p1bd",
+      "Status": "active",
+      "Debit": "1439779",
+      "Credit": "354472"
+    },
+    {
+      "BatchNo": 12,
+      "Date": "2023-10-13T10:17:04.819Z",
+      "Descr": "HDFC TRANSACTION q7tigp",
+      "AC_Sub": "CURRENT",
+      "ACNO": "q7tigp",
+      "Status": "active",
+      "Debit": "1359881",
+      "Credit": "423244"
+    },
+    {
+      "BatchNo": 12,
+      "Date": "2023-12-11T07:17:56.017Z",
+      "Descr": "HDFC TRANSACTION gvh1jo",
+      "AC_Sub": "LT",
+      "ACNO": "gvh1jo",
+      "Status": "inactive",
+      "Debit": "1705698",
+      "Credit": "253282"
+    },
+    {
+      "BatchNo": 12,
+      "Date": "2023-10-08T07:17:35.153Z",
+      "Descr": "PNB TRANSACTION mslq04",
+      "AC_Sub": "BANK",
+      "ACNO": "mslq04",
+      "Status": "pending",
+      "Debit": "1300066",
+      "Credit": "4698"
+    },
+    {
+      "BatchNo": 12,
+      "Date": "2023-09-17T16:46:55.161Z",
+      "Descr": "UNION TRANSACTION 3iovkl",
+      "AC_Sub": "LOAN",
+      "ACNO": "3iovkl",
+      "Status": "inactive",
+      "Debit": "1103720",
+      "Credit": "59635"
+    },
+    {
+      "BatchNo": 13,
+      "Date": "2023-04-08T17:22:41.777Z",
+      "Descr": "UNION TRANSACTION bbp02z",
+      "AC_Sub": "LOAN",
+      "ACNO": "bbp02z",
+      "Status": "inactive",
+      "Debit": "922872",
+      "Credit": "101543"
+    },
+    {
+      "BatchNo": 13,
+      "Date": "2023-08-19T21:58:26.737Z",
+      "Descr": "PNB TRANSACTION key3je",
+      "AC_Sub": "CURRENT",
+      "ACNO": "key3je",
+      "Status": "active",
+      "Debit": "239866",
+      "Credit": "279925"
+    },
+    {
+      "BatchNo": 13,
+      "Date": "2023-11-12T03:01:16.748Z",
+      "Descr": "PNB TRANSACTION 3ubvn8",
+      "AC_Sub": "LOAN",
+      "ACNO": "3ubvn8",
+      "Status": "pending",
+      "Debit": "1999465",
+      "Credit": "61051"
+    },
+    {
+      "BatchNo": 13,
+      "Date": "2024-12-03T17:40:19.620Z",
+      "Descr": "AXIS TRANSACTION mto8pe",
+      "AC_Sub": "CURRENT",
+      "ACNO": "mto8pe",
+      "Status": "pending",
+      "Debit": "1732381",
+      "Credit": "313414"
+    },
+    {
+      "BatchNo": 13,
+      "Date": "2024-01-02T03:06:14.240Z",
+      "Descr": "UNION TRANSACTION ema54j",
+      "AC_Sub": "LT",
+      "ACNO": "ema54j",
+      "Status": "inactive",
+      "Debit": "360089",
+      "Credit": "4800"
+    },
+    {
+      "BatchNo": 13,
+      "Date": "2023-12-08T01:44:40.180Z",
+      "Descr": "PNB TRANSACTION t30cxs",
+      "AC_Sub": "LT",
+      "ACNO": "t30cxs",
+      "Status": "inactive",
+      "Debit": "568996",
+      "Credit": "67440"
+    },
+    {
+      "BatchNo": 13,
+      "Date": "2023-03-30T17:31:53.386Z",
+      "Descr": "PNB TRANSACTION 6fdpca",
+      "AC_Sub": "CASH",
+      "ACNO": "6fdpca",
+      "Status": "pending",
+      "Debit": "1719257",
+      "Credit": "424843"
+    },
+    {
+      "BatchNo": 13,
+      "Date": "2023-01-12T09:59:47.678Z",
+      "Descr": "HDFC TRANSACTION y6j9pk",
+      "AC_Sub": "BANK",
+      "ACNO": "y6j9pk",
+      "Status": "pending",
+      "Debit": "1406462",
+      "Credit": "186539"
+    },
+    {
+      "BatchNo": 13,
+      "Date": "2023-06-14T22:32:43.891Z",
+      "Descr": "PNB TRANSACTION 4sk0zz",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "4sk0zz",
+      "Status": "active",
+      "Debit": "154989",
+      "Credit": "368246"
+    },
+    {
+      "BatchNo": 13,
+      "Date": "2025-01-30T15:06:57.220Z",
+      "Descr": "AXIS TRANSACTION ribhkp",
+      "AC_Sub": "LT",
+      "ACNO": "ribhkp",
+      "Status": "pending",
+      "Debit": "753656",
+      "Credit": "356868"
+    },
+    {
+      "BatchNo": 14,
+      "Date": "2024-04-12T11:10:58.474Z",
+      "Descr": "UNION TRANSACTION t7attv",
+      "AC_Sub": "CASH",
+      "ACNO": "t7attv",
+      "Status": "active",
+      "Debit": "93711",
+      "Credit": "45495"
+    },
+    {
+      "BatchNo": 14,
+      "Date": "2024-09-26T06:28:15.453Z",
+      "Descr": "HDFC TRANSACTION ehyvtt",
+      "AC_Sub": "ST",
+      "ACNO": "ehyvtt",
+      "Status": "inactive",
+      "Debit": "520788",
+      "Credit": "54051"
+    },
+    {
+      "BatchNo": 14,
+      "Date": "2024-11-10T01:55:14.863Z",
+      "Descr": "BOB TRANSACTION 20dtcy",
+      "AC_Sub": "LT",
+      "ACNO": "20dtcy",
+      "Status": "inactive",
+      "Debit": "1717262",
+      "Credit": "127187"
+    },
+    {
+      "BatchNo": 14,
+      "Date": "2023-10-10T06:36:01.397Z",
+      "Descr": "SBI TRANSACTION 4i3jub",
+      "AC_Sub": "BANK",
+      "ACNO": "4i3jub",
+      "Status": "pending",
+      "Debit": "1200301",
+      "Credit": "411773"
+    },
+    {
+      "BatchNo": 14,
+      "Date": "2024-04-30T10:34:27.477Z",
+      "Descr": "HDFC TRANSACTION evymjr",
+      "AC_Sub": "LOAN",
+      "ACNO": "evymjr",
+      "Status": "pending",
+      "Debit": "1669952",
+      "Credit": "258896"
+    },
+    {
+      "BatchNo": 14,
+      "Date": "2024-07-19T18:56:09.180Z",
+      "Descr": "SBI TRANSACTION ln9ywm",
+      "AC_Sub": "ST",
+      "ACNO": "ln9ywm",
+      "Status": "inactive",
+      "Debit": "432298",
+      "Credit": "151810"
+    },
+    {
+      "BatchNo": 14,
+      "Date": "2024-02-01T11:15:30.785Z",
+      "Descr": "HDFC TRANSACTION 1qz79b",
+      "AC_Sub": "LT",
+      "ACNO": "1qz79b",
+      "Status": "pending",
+      "Debit": "484263",
+      "Credit": "444469"
+    },
+    {
+      "BatchNo": 14,
+      "Date": "2023-11-12T11:37:34.642Z",
+      "Descr": "BOB TRANSACTION avqi7h",
+      "AC_Sub": "ST",
+      "ACNO": "avqi7h",
+      "Status": "active",
+      "Debit": "280482",
+      "Credit": "373356"
+    },
+    {
+      "BatchNo": 14,
+      "Date": "2024-10-13T19:33:47.311Z",
+      "Descr": "HDFC TRANSACTION aoc8je",
+      "AC_Sub": "CASH",
+      "ACNO": "aoc8je",
+      "Status": "pending",
+      "Debit": "1119195",
+      "Credit": "428264"
+    },
+    {
+      "BatchNo": 14,
+      "Date": "2023-01-05T00:04:33.250Z",
+      "Descr": "ICICI TRANSACTION 1f9eub",
+      "AC_Sub": "LOAN",
+      "ACNO": "1f9eub",
+      "Status": "inactive",
+      "Debit": "833315",
+      "Credit": "371720"
+    },
+    {
+      "BatchNo": 15,
+      "Date": "2023-10-16T03:27:57.498Z",
+      "Descr": "PNB TRANSACTION k3kzlj",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "k3kzlj",
+      "Status": "pending",
+      "Debit": "1921346",
+      "Credit": "132518"
+    },
+    {
+      "BatchNo": 15,
+      "Date": "2025-01-19T10:55:32.144Z",
+      "Descr": "HDFC TRANSACTION 9fqygs",
+      "AC_Sub": "CURRENT",
+      "ACNO": "9fqygs",
+      "Status": "inactive",
+      "Debit": "116254",
+      "Credit": "17429"
+    },
+    {
+      "BatchNo": 15,
+      "Date": "2024-11-20T07:13:00.058Z",
+      "Descr": "ICICI TRANSACTION c608ht",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "c608ht",
+      "Status": "active",
+      "Debit": "719412",
+      "Credit": "208335"
+    },
+    {
+      "BatchNo": 15,
+      "Date": "2023-01-23T12:12:58.227Z",
+      "Descr": "AXIS TRANSACTION 8qdjyj",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "8qdjyj",
+      "Status": "pending",
+      "Debit": "78356",
+      "Credit": "163457"
+    },
+    {
+      "BatchNo": 15,
+      "Date": "2024-10-21T17:11:02.592Z",
+      "Descr": "BOB TRANSACTION e2l234",
+      "AC_Sub": "LT",
+      "ACNO": "e2l234",
+      "Status": "active",
+      "Debit": "1248418",
+      "Credit": "348672"
+    },
+    {
+      "BatchNo": 15,
+      "Date": "2023-10-11T14:06:26.121Z",
+      "Descr": "HDFC TRANSACTION 0c0ovu",
+      "AC_Sub": "CURRENT",
+      "ACNO": "0c0ovu",
+      "Status": "pending",
+      "Debit": "1448501",
+      "Credit": "59861"
+    },
+    {
+      "BatchNo": 15,
+      "Date": "2023-07-17T22:27:12.293Z",
+      "Descr": "PNB TRANSACTION ov1grw",
+      "AC_Sub": "BANK",
+      "ACNO": "ov1grw",
+      "Status": "pending",
+      "Debit": "1631181",
+      "Credit": "426601"
+    },
+    {
+      "BatchNo": 15,
+      "Date": "2024-10-14T04:38:26.164Z",
+      "Descr": "HDFC TRANSACTION yb2qkh",
+      "AC_Sub": "CASH",
+      "ACNO": "yb2qkh",
+      "Status": "active",
+      "Debit": "546774",
+      "Credit": "409575"
+    },
+    {
+      "BatchNo": 15,
+      "Date": "2024-08-10T21:36:44.028Z",
+      "Descr": "ICICI TRANSACTION k5lt1x",
+      "AC_Sub": "LOAN",
+      "ACNO": "k5lt1x",
+      "Status": "active",
+      "Debit": "911760",
+      "Credit": "45557"
+    },
+    {
+      "BatchNo": 15,
+      "Date": "2023-03-18T05:23:13.409Z",
+      "Descr": "AXIS TRANSACTION xmll9q",
+      "AC_Sub": "CASH",
+      "ACNO": "xmll9q",
+      "Status": "pending",
+      "Debit": "466894",
+      "Credit": "426736"
+    },
+    {
+      "BatchNo": 16,
+      "Date": "2023-09-08T10:33:20.129Z",
+      "Descr": "HDFC TRANSACTION yp8a8m",
+      "AC_Sub": "CASH",
+      "ACNO": "yp8a8m",
+      "Status": "pending",
+      "Debit": "788201",
+      "Credit": "321849"
+    },
+    {
+      "BatchNo": 16,
+      "Date": "2024-05-04T07:34:17.118Z",
+      "Descr": "BOB TRANSACTION brwuvg",
+      "AC_Sub": "CURRENT",
+      "ACNO": "brwuvg",
+      "Status": "inactive",
+      "Debit": "1566921",
+      "Credit": "482873"
+    },
+    {
+      "BatchNo": 16,
+      "Date": "2023-01-12T11:12:47.016Z",
+      "Descr": "SBI TRANSACTION 1pd0a5",
+      "AC_Sub": "CASH",
+      "ACNO": "1pd0a5",
+      "Status": "inactive",
+      "Debit": "578790",
+      "Credit": "478560"
+    },
+    {
+      "BatchNo": 16,
+      "Date": "2024-07-22T10:57:06.461Z",
+      "Descr": "PNB TRANSACTION wpcjap",
+      "AC_Sub": "CASH",
+      "ACNO": "wpcjap",
+      "Status": "inactive",
+      "Debit": "257745",
+      "Credit": "321278"
+    },
+    {
+      "BatchNo": 16,
+      "Date": "2024-10-29T22:38:10.299Z",
+      "Descr": "UNION TRANSACTION ndxen9",
+      "AC_Sub": "CURRENT",
+      "ACNO": "ndxen9",
+      "Status": "pending",
+      "Debit": "820253",
+      "Credit": "470183"
+    },
+    {
+      "BatchNo": 16,
+      "Date": "2024-09-30T18:43:27.971Z",
+      "Descr": "BOB TRANSACTION gimjfk",
+      "AC_Sub": "BANK",
+      "ACNO": "gimjfk",
+      "Status": "active",
+      "Debit": "1619603",
+      "Credit": "346096"
+    },
+    {
+      "BatchNo": 16,
+      "Date": "2023-10-26T10:43:53.266Z",
+      "Descr": "AXIS TRANSACTION 8lkvb5",
+      "AC_Sub": "ST",
+      "ACNO": "8lkvb5",
+      "Status": "active",
+      "Debit": "1279868",
+      "Credit": "418522"
+    },
+    {
+      "BatchNo": 16,
+      "Date": "2024-10-03T13:20:27.125Z",
+      "Descr": "HDFC TRANSACTION v02xgg",
+      "AC_Sub": "ST",
+      "ACNO": "v02xgg",
+      "Status": "active",
+      "Debit": "708362",
+      "Credit": "106704"
+    },
+    {
+      "BatchNo": 16,
+      "Date": "2023-10-24T01:16:54.062Z",
+      "Descr": "UNION TRANSACTION 4j5j9v",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "4j5j9v",
+      "Status": "inactive",
+      "Debit": "1274692",
+      "Credit": "12725"
+    },
+    {
+      "BatchNo": 16,
+      "Date": "2024-09-25T01:57:29.891Z",
+      "Descr": "HDFC TRANSACTION wdooua",
+      "AC_Sub": "CASH",
+      "ACNO": "wdooua",
+      "Status": "pending",
+      "Debit": "81668",
+      "Credit": "14075"
+    },
+    {
+      "BatchNo": 17,
+      "Date": "2023-01-26T23:21:46.611Z",
+      "Descr": "ICICI TRANSACTION hz44qf",
+      "AC_Sub": "CASH",
+      "ACNO": "hz44qf",
+      "Status": "active",
+      "Debit": "712721",
+      "Credit": "413184"
+    },
+    {
+      "BatchNo": 17,
+      "Date": "2024-07-11T05:32:01.853Z",
+      "Descr": "HDFC TRANSACTION wb9isd",
+      "AC_Sub": "BANK",
+      "ACNO": "wb9isd",
+      "Status": "inactive",
+      "Debit": "154486",
+      "Credit": "114917"
+    },
+    {
+      "BatchNo": 17,
+      "Date": "2023-12-23T07:41:18.779Z",
+      "Descr": "ICICI TRANSACTION grpdab",
+      "AC_Sub": "LOAN",
+      "ACNO": "grpdab",
+      "Status": "inactive",
+      "Debit": "1995777",
+      "Credit": "264423"
+    },
+    {
+      "BatchNo": 17,
+      "Date": "2024-02-24T18:44:52.604Z",
+      "Descr": "UNION TRANSACTION yvny5a",
+      "AC_Sub": "CURRENT",
+      "ACNO": "yvny5a",
+      "Status": "active",
+      "Debit": "311883",
+      "Credit": "195221"
+    },
+    {
+      "BatchNo": 17,
+      "Date": "2023-10-09T20:59:13.016Z",
+      "Descr": "SBI TRANSACTION ppmk6b",
+      "AC_Sub": "ST",
+      "ACNO": "ppmk6b",
+      "Status": "inactive",
+      "Debit": "1130538",
+      "Credit": "70692"
+    },
+    {
+      "BatchNo": 17,
+      "Date": "2024-06-10T17:37:14.683Z",
+      "Descr": "PNB TRANSACTION hk8c3u",
+      "AC_Sub": "BANK",
+      "ACNO": "hk8c3u",
+      "Status": "inactive",
+      "Debit": "184708",
+      "Credit": "277413"
+    },
+    {
+      "BatchNo": 17,
+      "Date": "2024-07-15T04:51:41.156Z",
+      "Descr": "PNB TRANSACTION cajfz0",
+      "AC_Sub": "CASH",
+      "ACNO": "cajfz0",
+      "Status": "pending",
+      "Debit": "945138",
+      "Credit": "98395"
+    },
+    {
+      "BatchNo": 17,
+      "Date": "2023-10-14T00:01:42.869Z",
+      "Descr": "PNB TRANSACTION 10taqr",
+      "AC_Sub": "BANK",
+      "ACNO": "10taqr",
+      "Status": "inactive",
+      "Debit": "386468",
+      "Credit": "366867"
+    },
+    {
+      "BatchNo": 17,
+      "Date": "2024-12-12T15:46:22.988Z",
+      "Descr": "UNION TRANSACTION dhz65z",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "dhz65z",
+      "Status": "pending",
+      "Debit": "822865",
+      "Credit": "370023"
+    },
+    {
+      "BatchNo": 17,
+      "Date": "2024-03-03T18:26:12.713Z",
+      "Descr": "SBI TRANSACTION o5tk1w",
+      "AC_Sub": "LOAN",
+      "ACNO": "o5tk1w",
+      "Status": "inactive",
+      "Debit": "1001128",
+      "Credit": "137806"
+    },
+    {
+      "BatchNo": 18,
+      "Date": "2024-05-16T22:55:06.690Z",
+      "Descr": "SBI TRANSACTION j26f64",
+      "AC_Sub": "CURRENT",
+      "ACNO": "j26f64",
+      "Status": "active",
+      "Debit": "1281194",
+      "Credit": "129500"
+    },
+    {
+      "BatchNo": 18,
+      "Date": "2024-12-25T22:02:19.356Z",
+      "Descr": "SBI TRANSACTION efc0k2",
+      "AC_Sub": "ST",
+      "ACNO": "efc0k2",
+      "Status": "inactive",
+      "Debit": "1522764",
+      "Credit": "329186"
+    },
+    {
+      "BatchNo": 18,
+      "Date": "2023-10-03T18:34:15.575Z",
+      "Descr": "SBI TRANSACTION s8xgde",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "s8xgde",
+      "Status": "pending",
+      "Debit": "1378828",
+      "Credit": "453203"
+    },
+    {
+      "BatchNo": 18,
+      "Date": "2023-04-16T18:03:26.543Z",
+      "Descr": "SBI TRANSACTION ayt1lq",
+      "AC_Sub": "LT",
+      "ACNO": "ayt1lq",
+      "Status": "active",
+      "Debit": "1959601",
+      "Credit": "311879"
+    },
+    {
+      "BatchNo": 18,
+      "Date": "2023-02-19T17:50:09.665Z",
+      "Descr": "UNION TRANSACTION hahsjb",
+      "AC_Sub": "LT",
+      "ACNO": "hahsjb",
+      "Status": "pending",
+      "Debit": "1894752",
+      "Credit": "84025"
+    },
+    {
+      "BatchNo": 18,
+      "Date": "2023-04-17T20:23:23.990Z",
+      "Descr": "PNB TRANSACTION oq1v20",
+      "AC_Sub": "LT",
+      "ACNO": "oq1v20",
+      "Status": "active",
+      "Debit": "1917632",
+      "Credit": "396685"
+    },
+    {
+      "BatchNo": 18,
+      "Date": "2024-04-08T05:40:24.697Z",
+      "Descr": "AXIS TRANSACTION quevev",
+      "AC_Sub": "LT",
+      "ACNO": "quevev",
+      "Status": "pending",
+      "Debit": "361556",
+      "Credit": "378581"
+    },
+    {
+      "BatchNo": 18,
+      "Date": "2025-01-20T07:44:51.345Z",
+      "Descr": "HDFC TRANSACTION uob1fq",
+      "AC_Sub": "CURRENT",
+      "ACNO": "uob1fq",
+      "Status": "active",
+      "Debit": "48270",
+      "Credit": "198423"
+    },
+    {
+      "BatchNo": 18,
+      "Date": "2023-05-05T14:09:43.467Z",
+      "Descr": "BOB TRANSACTION 2ykdiz",
+      "AC_Sub": "CURRENT",
+      "ACNO": "2ykdiz",
+      "Status": "inactive",
+      "Debit": "748393",
+      "Credit": "193337"
+    },
+    {
+      "BatchNo": 18,
+      "Date": "2024-04-28T16:52:56.998Z",
+      "Descr": "UNION TRANSACTION d3uw2z",
+      "AC_Sub": "LT",
+      "ACNO": "d3uw2z",
+      "Status": "active",
+      "Debit": "1787067",
+      "Credit": "146438"
+    },
+    {
+      "BatchNo": 19,
+      "Date": "2023-08-02T12:14:50.672Z",
+      "Descr": "BOB TRANSACTION x4qa2b",
+      "AC_Sub": "LT",
+      "ACNO": "x4qa2b",
+      "Status": "pending",
+      "Debit": "1403750",
+      "Credit": "231396"
+    },
+    {
+      "BatchNo": 19,
+      "Date": "2024-04-24T20:48:08.241Z",
+      "Descr": "ICICI TRANSACTION iauzt3",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "iauzt3",
+      "Status": "pending",
+      "Debit": "983585",
+      "Credit": "330233"
+    },
+    {
+      "BatchNo": 19,
+      "Date": "2023-08-16T18:32:50.465Z",
+      "Descr": "PNB TRANSACTION poir4u",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "poir4u",
+      "Status": "inactive",
+      "Debit": "774103",
+      "Credit": "20344"
+    },
+    {
+      "BatchNo": 19,
+      "Date": "2024-05-01T05:55:40.825Z",
+      "Descr": "PNB TRANSACTION mas6ht",
+      "AC_Sub": "LOAN",
+      "ACNO": "mas6ht",
+      "Status": "active",
+      "Debit": "904935",
+      "Credit": "209916"
+    },
+    {
+      "BatchNo": 19,
+      "Date": "2024-02-24T07:10:47.643Z",
+      "Descr": "UNION TRANSACTION uzc0rx",
+      "AC_Sub": "LT",
+      "ACNO": "uzc0rx",
+      "Status": "pending",
+      "Debit": "1756832",
+      "Credit": "283168"
+    },
+    {
+      "BatchNo": 19,
+      "Date": "2024-02-18T17:49:20.815Z",
+      "Descr": "SBI TRANSACTION oylbxz",
+      "AC_Sub": "CASH",
+      "ACNO": "oylbxz",
+      "Status": "active",
+      "Debit": "1214674",
+      "Credit": "256140"
+    },
+    {
+      "BatchNo": 19,
+      "Date": "2025-01-31T13:45:27.886Z",
+      "Descr": "ICICI TRANSACTION z6eqds",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "z6eqds",
+      "Status": "pending",
+      "Debit": "232678",
+      "Credit": "267391"
+    },
+    {
+      "BatchNo": 19,
+      "Date": "2024-11-20T00:23:18.492Z",
+      "Descr": "UNION TRANSACTION 894nle",
+      "AC_Sub": "LOAN",
+      "ACNO": "894nle",
+      "Status": "active",
+      "Debit": "713457",
+      "Credit": "413057"
+    },
+    {
+      "BatchNo": 19,
+      "Date": "2025-01-06T09:41:40.681Z",
+      "Descr": "UNION TRANSACTION uxoi37",
+      "AC_Sub": "CASH",
+      "ACNO": "uxoi37",
+      "Status": "inactive",
+      "Debit": "155544",
+      "Credit": "217638"
+    },
+    {
+      "BatchNo": 19,
+      "Date": "2023-02-19T13:05:32.316Z",
+      "Descr": "BOB TRANSACTION b0q0a9",
+      "AC_Sub": "LOAN",
+      "ACNO": "b0q0a9",
+      "Status": "active",
+      "Debit": "1188221",
+      "Credit": "325991"
+    },
+    {
+      "BatchNo": 20,
+      "Date": "2023-05-01T12:32:16.876Z",
+      "Descr": "UNION TRANSACTION nbrlwl",
+      "AC_Sub": "LT",
+      "ACNO": "nbrlwl",
+      "Status": "active",
+      "Debit": "1701995",
+      "Credit": "179781"
+    },
+    {
+      "BatchNo": 20,
+      "Date": "2024-04-11T06:50:52.181Z",
+      "Descr": "UNION TRANSACTION ygnwky",
+      "AC_Sub": "CURRENT",
+      "ACNO": "ygnwky",
+      "Status": "active",
+      "Debit": "812266",
+      "Credit": "243952"
+    },
+    {
+      "BatchNo": 20,
+      "Date": "2023-04-20T06:21:19.848Z",
+      "Descr": "UNION TRANSACTION hbwyse",
+      "AC_Sub": "CURRENT",
+      "ACNO": "hbwyse",
+      "Status": "active",
+      "Debit": "445277",
+      "Credit": "362893"
+    },
+    {
+      "BatchNo": 20,
+      "Date": "2024-03-08T08:07:52.624Z",
+      "Descr": "ICICI TRANSACTION z17pdv",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "z17pdv",
+      "Status": "inactive",
+      "Debit": "1268495",
+      "Credit": "459736"
+    },
+    {
+      "BatchNo": 20,
+      "Date": "2023-01-20T01:34:34.289Z",
+      "Descr": "BOB TRANSACTION xavuzq",
+      "AC_Sub": "ST",
+      "ACNO": "xavuzq",
+      "Status": "inactive",
+      "Debit": "193063",
+      "Credit": "234760"
+    },
+    {
+      "BatchNo": 20,
+      "Date": "2024-04-08T05:28:09.738Z",
+      "Descr": "AXIS TRANSACTION ny6kjg",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "ny6kjg",
+      "Status": "pending",
+      "Debit": "832741",
+      "Credit": "481757"
+    },
+    {
+      "BatchNo": 20,
+      "Date": "2023-08-24T03:28:21.296Z",
+      "Descr": "UNION TRANSACTION x8cn4i",
+      "AC_Sub": "LT",
+      "ACNO": "x8cn4i",
+      "Status": "active",
+      "Debit": "1822059",
+      "Credit": "410211"
+    },
+    {
+      "BatchNo": 20,
+      "Date": "2023-04-17T08:26:56.994Z",
+      "Descr": "ICICI TRANSACTION ss1g3u",
+      "AC_Sub": "LOAN",
+      "ACNO": "ss1g3u",
+      "Status": "inactive",
+      "Debit": "1545982",
+      "Credit": "489945"
+    },
+    {
+      "BatchNo": 20,
+      "Date": "2024-01-03T08:49:27.958Z",
+      "Descr": "AXIS TRANSACTION 5gjh83",
+      "AC_Sub": "BANK",
+      "ACNO": "5gjh83",
+      "Status": "inactive",
+      "Debit": "635127",
+      "Credit": "302961"
+    },
+    {
+      "BatchNo": 20,
+      "Date": "2023-04-26T02:53:35.982Z",
+      "Descr": "HDFC TRANSACTION 5tymav",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "5tymav",
+      "Status": "pending",
+      "Debit": "1528002",
+      "Credit": "172635"
+    },
+    {
+      "BatchNo": 21,
+      "Date": "2023-12-14T20:53:09.159Z",
+      "Descr": "ICICI TRANSACTION vvqwvi",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "vvqwvi",
+      "Status": "pending",
+      "Debit": "575493",
+      "Credit": "130657"
+    },
+    {
+      "BatchNo": 21,
+      "Date": "2025-02-03T03:11:20.712Z",
+      "Descr": "SBI TRANSACTION cumva9",
+      "AC_Sub": "BANK",
+      "ACNO": "cumva9",
+      "Status": "inactive",
+      "Debit": "1953572",
+      "Credit": "377153"
+    },
+    {
+      "BatchNo": 21,
+      "Date": "2023-06-01T07:44:43.495Z",
+      "Descr": "AXIS TRANSACTION r5bqh7",
+      "AC_Sub": "ST",
+      "ACNO": "r5bqh7",
+      "Status": "inactive",
+      "Debit": "1272995",
+      "Credit": "435110"
+    },
+    {
+      "BatchNo": 21,
+      "Date": "2024-03-29T03:17:14.381Z",
+      "Descr": "AXIS TRANSACTION oxkz7f",
+      "AC_Sub": "LOAN",
+      "ACNO": "oxkz7f",
+      "Status": "inactive",
+      "Debit": "1530554",
+      "Credit": "274201"
+    },
+    {
+      "BatchNo": 21,
+      "Date": "2023-01-08T20:49:17.127Z",
+      "Descr": "ICICI TRANSACTION ltn2ov",
+      "AC_Sub": "ST",
+      "ACNO": "ltn2ov",
+      "Status": "pending",
+      "Debit": "1516674",
+      "Credit": "361687"
+    },
+    {
+      "BatchNo": 21,
+      "Date": "2023-03-07T21:22:27.136Z",
+      "Descr": "PNB TRANSACTION irp8ek",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "irp8ek",
+      "Status": "inactive",
+      "Debit": "1559209",
+      "Credit": "50175"
+    },
+    {
+      "BatchNo": 21,
+      "Date": "2023-12-18T13:02:11.453Z",
+      "Descr": "UNION TRANSACTION ozmoo1",
+      "AC_Sub": "CASH",
+      "ACNO": "ozmoo1",
+      "Status": "inactive",
+      "Debit": "644589",
+      "Credit": "350085"
+    },
+    {
+      "BatchNo": 21,
+      "Date": "2024-06-10T19:04:47.161Z",
+      "Descr": "ICICI TRANSACTION 8udvdj",
+      "AC_Sub": "LOAN",
+      "ACNO": "8udvdj",
+      "Status": "active",
+      "Debit": "382744",
+      "Credit": "109881"
+    },
+    {
+      "BatchNo": 21,
+      "Date": "2024-06-04T04:13:11.622Z",
+      "Descr": "UNION TRANSACTION vt4zix",
+      "AC_Sub": "LT",
+      "ACNO": "vt4zix",
+      "Status": "active",
+      "Debit": "1105037",
+      "Credit": "154784"
+    },
+    {
+      "BatchNo": 21,
+      "Date": "2024-04-28T20:04:48.867Z",
+      "Descr": "HDFC TRANSACTION as5kt6",
+      "AC_Sub": "ST",
+      "ACNO": "as5kt6",
+      "Status": "active",
+      "Debit": "760681",
+      "Credit": "183446"
+    },
+    {
+      "BatchNo": 22,
+      "Date": "2023-03-28T15:07:17.426Z",
+      "Descr": "HDFC TRANSACTION zb61zl",
+      "AC_Sub": "CURRENT",
+      "ACNO": "zb61zl",
+      "Status": "pending",
+      "Debit": "1465127",
+      "Credit": "194875"
+    },
+    {
+      "BatchNo": 22,
+      "Date": "2024-06-23T03:11:40.678Z",
+      "Descr": "ICICI TRANSACTION j20wac",
+      "AC_Sub": "CASH",
+      "ACNO": "j20wac",
+      "Status": "active",
+      "Debit": "1860778",
+      "Credit": "373038"
+    },
+    {
+      "BatchNo": 22,
+      "Date": "2023-05-13T12:20:05.640Z",
+      "Descr": "HDFC TRANSACTION kofd6a",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "kofd6a",
+      "Status": "pending",
+      "Debit": "1320350",
+      "Credit": "276194"
+    },
+    {
+      "BatchNo": 22,
+      "Date": "2023-03-01T04:29:40.971Z",
+      "Descr": "PNB TRANSACTION c7s3xi",
+      "AC_Sub": "CURRENT",
+      "ACNO": "c7s3xi",
+      "Status": "active",
+      "Debit": "583339",
+      "Credit": "139862"
+    },
+    {
+      "BatchNo": 22,
+      "Date": "2024-04-18T08:47:58.713Z",
+      "Descr": "SBI TRANSACTION av5kz0",
+      "AC_Sub": "LOAN",
+      "ACNO": "av5kz0",
+      "Status": "active",
+      "Debit": "332624",
+      "Credit": "487653"
+    },
+    {
+      "BatchNo": 22,
+      "Date": "2023-12-06T22:08:09.192Z",
+      "Descr": "HDFC TRANSACTION ly091p",
+      "AC_Sub": "CURRENT",
+      "ACNO": "ly091p",
+      "Status": "inactive",
+      "Debit": "1072365",
+      "Credit": "57959"
+    },
+    {
+      "BatchNo": 22,
+      "Date": "2024-09-02T17:46:32.592Z",
+      "Descr": "UNION TRANSACTION 1hdn02",
+      "AC_Sub": "CASH",
+      "ACNO": "1hdn02",
+      "Status": "active",
+      "Debit": "937646",
+      "Credit": "378508"
+    },
+    {
+      "BatchNo": 22,
+      "Date": "2023-04-15T17:19:15.558Z",
+      "Descr": "HDFC TRANSACTION ij5f9w",
+      "AC_Sub": "CURRENT",
+      "ACNO": "ij5f9w",
+      "Status": "pending",
+      "Debit": "1426202",
+      "Credit": "164998"
+    },
+    {
+      "BatchNo": 22,
+      "Date": "2023-12-09T09:03:36.087Z",
+      "Descr": "SBI TRANSACTION lvjmqn",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "lvjmqn",
+      "Status": "active",
+      "Debit": "934845",
+      "Credit": "485618"
+    },
+    {
+      "BatchNo": 22,
+      "Date": "2024-08-06T19:11:53.585Z",
+      "Descr": "ICICI TRANSACTION fgeyq8",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "fgeyq8",
+      "Status": "inactive",
+      "Debit": "667074",
+      "Credit": "191679"
+    },
+    {
+      "BatchNo": 23,
+      "Date": "2024-12-06T22:53:28.754Z",
+      "Descr": "HDFC TRANSACTION iwq0zd",
+      "AC_Sub": "BANK",
+      "ACNO": "iwq0zd",
+      "Status": "pending",
+      "Debit": "1315440",
+      "Credit": "250605"
+    },
+    {
+      "BatchNo": 23,
+      "Date": "2023-08-27T19:20:33.179Z",
+      "Descr": "PNB TRANSACTION 1gai1t",
+      "AC_Sub": "CASH",
+      "ACNO": "1gai1t",
+      "Status": "pending",
+      "Debit": "1298180",
+      "Credit": "310966"
+    },
+    {
+      "BatchNo": 23,
+      "Date": "2023-12-17T02:39:41.326Z",
+      "Descr": "SBI TRANSACTION 28rq6i",
+      "AC_Sub": "ST",
+      "ACNO": "28rq6i",
+      "Status": "inactive",
+      "Debit": "1748778",
+      "Credit": "42435"
+    },
+    {
+      "BatchNo": 23,
+      "Date": "2025-02-02T13:14:15.108Z",
+      "Descr": "BOB TRANSACTION urs4p1",
+      "AC_Sub": "BANK",
+      "ACNO": "urs4p1",
+      "Status": "inactive",
+      "Debit": "878360",
+      "Credit": "402910"
+    },
+    {
+      "BatchNo": 23,
+      "Date": "2023-11-30T01:56:15.707Z",
+      "Descr": "BOB TRANSACTION 43rbdw",
+      "AC_Sub": "CURRENT",
+      "ACNO": "43rbdw",
+      "Status": "inactive",
+      "Debit": "487120",
+      "Credit": "466921"
+    },
+    {
+      "BatchNo": 23,
+      "Date": "2024-05-27T15:24:16.634Z",
+      "Descr": "HDFC TRANSACTION 2k8mzh",
+      "AC_Sub": "CASH",
+      "ACNO": "2k8mzh",
+      "Status": "inactive",
+      "Debit": "301485",
+      "Credit": "331494"
+    },
+    {
+      "BatchNo": 23,
+      "Date": "2024-06-23T23:12:51.609Z",
+      "Descr": "AXIS TRANSACTION bdsq3x",
+      "AC_Sub": "CURRENT",
+      "ACNO": "bdsq3x",
+      "Status": "pending",
+      "Debit": "1325397",
+      "Credit": "136724"
+    },
+    {
+      "BatchNo": 23,
+      "Date": "2023-04-15T09:20:36.823Z",
+      "Descr": "SBI TRANSACTION dcna6c",
+      "AC_Sub": "ST",
+      "ACNO": "dcna6c",
+      "Status": "pending",
+      "Debit": "1308319",
+      "Credit": "379380"
+    },
+    {
+      "BatchNo": 23,
+      "Date": "2024-08-12T21:37:55.360Z",
+      "Descr": "HDFC TRANSACTION bk4q73",
+      "AC_Sub": "ST",
+      "ACNO": "bk4q73",
+      "Status": "inactive",
+      "Debit": "1254721",
+      "Credit": "166467"
+    },
+    {
+      "BatchNo": 23,
+      "Date": "2023-06-26T06:07:31.059Z",
+      "Descr": "HDFC TRANSACTION 497fu0",
+      "AC_Sub": "LT",
+      "ACNO": "497fu0",
+      "Status": "pending",
+      "Debit": "297346",
+      "Credit": "185358"
+    },
+    {
+      "BatchNo": 24,
+      "Date": "2023-01-16T09:49:28.915Z",
+      "Descr": "PNB TRANSACTION f70w4f",
+      "AC_Sub": "LOAN",
+      "ACNO": "f70w4f",
+      "Status": "active",
+      "Debit": "773773",
+      "Credit": "247759"
+    },
+    {
+      "BatchNo": 24,
+      "Date": "2024-03-22T10:34:47.020Z",
+      "Descr": "AXIS TRANSACTION fx8u7y",
+      "AC_Sub": "CASH",
+      "ACNO": "fx8u7y",
+      "Status": "active",
+      "Debit": "483265",
+      "Credit": "324588"
+    },
+    {
+      "BatchNo": 24,
+      "Date": "2024-06-03T03:47:38.573Z",
+      "Descr": "ICICI TRANSACTION kkj8qs",
+      "AC_Sub": "LT",
+      "ACNO": "kkj8qs",
+      "Status": "inactive",
+      "Debit": "608591",
+      "Credit": "15627"
+    },
+    {
+      "BatchNo": 24,
+      "Date": "2023-09-24T20:44:22.537Z",
+      "Descr": "BOB TRANSACTION cp6e8v",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "cp6e8v",
+      "Status": "active",
+      "Debit": "1585603",
+      "Credit": "429839"
+    },
+    {
+      "BatchNo": 24,
+      "Date": "2023-11-07T09:44:32.526Z",
+      "Descr": "AXIS TRANSACTION s494yc",
+      "AC_Sub": "BANK",
+      "ACNO": "s494yc",
+      "Status": "inactive",
+      "Debit": "92736",
+      "Credit": "48341"
+    },
+    {
+      "BatchNo": 24,
+      "Date": "2024-09-07T04:45:53.019Z",
+      "Descr": "PNB TRANSACTION vne1jo",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "vne1jo",
+      "Status": "pending",
+      "Debit": "886342",
+      "Credit": "219614"
+    },
+    {
+      "BatchNo": 24,
+      "Date": "2024-05-31T06:04:03.535Z",
+      "Descr": "HDFC TRANSACTION u4oraq",
+      "AC_Sub": "ST",
+      "ACNO": "u4oraq",
+      "Status": "active",
+      "Debit": "1374869",
+      "Credit": "289548"
+    },
+    {
+      "BatchNo": 24,
+      "Date": "2024-08-07T10:41:35.430Z",
+      "Descr": "AXIS TRANSACTION omfyog",
+      "AC_Sub": "BANK",
+      "ACNO": "omfyog",
+      "Status": "pending",
+      "Debit": "203298",
+      "Credit": "213793"
+    },
+    {
+      "BatchNo": 24,
+      "Date": "2024-05-24T15:36:45.492Z",
+      "Descr": "HDFC TRANSACTION razl6i",
+      "AC_Sub": "CASH",
+      "ACNO": "razl6i",
+      "Status": "active",
+      "Debit": "168100",
+      "Credit": "409853"
+    },
+    {
+      "BatchNo": 24,
+      "Date": "2024-03-04T21:53:01.168Z",
+      "Descr": "HDFC TRANSACTION 332tqq",
+      "AC_Sub": "LOAN",
+      "ACNO": "332tqq",
+      "Status": "pending",
+      "Debit": "210350",
+      "Credit": "154943"
+    },
+    {
+      "BatchNo": 25,
+      "Date": "2024-02-02T20:01:13.433Z",
+      "Descr": "PNB TRANSACTION iny72w",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "iny72w",
+      "Status": "pending",
+      "Debit": "1158624",
+      "Credit": "443295"
+    },
+    {
+      "BatchNo": 25,
+      "Date": "2024-03-23T17:49:36.260Z",
+      "Descr": "ICICI TRANSACTION mdn3nn",
+      "AC_Sub": "CURRENT",
+      "ACNO": "mdn3nn",
+      "Status": "active",
+      "Debit": "1538863",
+      "Credit": "20935"
+    },
+    {
+      "BatchNo": 25,
+      "Date": "2023-04-28T06:37:12.046Z",
+      "Descr": "UNION TRANSACTION fkqx7g",
+      "AC_Sub": "LOAN",
+      "ACNO": "fkqx7g",
+      "Status": "inactive",
+      "Debit": "1246241",
+      "Credit": "72222"
+    },
+    {
+      "BatchNo": 25,
+      "Date": "2024-12-17T00:45:10.009Z",
+      "Descr": "PNB TRANSACTION 2sipfm",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "2sipfm",
+      "Status": "active",
+      "Debit": "1660334",
+      "Credit": "18895"
+    },
+    {
+      "BatchNo": 25,
+      "Date": "2023-10-04T15:36:06.153Z",
+      "Descr": "AXIS TRANSACTION 21iwz2",
+      "AC_Sub": "CURRENT",
+      "ACNO": "21iwz2",
+      "Status": "inactive",
+      "Debit": "1891532",
+      "Credit": "313058"
+    },
+    {
+      "BatchNo": 25,
+      "Date": "2023-05-17T14:33:48.862Z",
+      "Descr": "BOB TRANSACTION m88xnc",
+      "AC_Sub": "LOAN",
+      "ACNO": "m88xnc",
+      "Status": "active",
+      "Debit": "1814151",
+      "Credit": "456996"
+    },
+    {
+      "BatchNo": 25,
+      "Date": "2023-09-04T05:47:59.067Z",
+      "Descr": "PNB TRANSACTION 1nmmnd",
+      "AC_Sub": "ST",
+      "ACNO": "1nmmnd",
+      "Status": "active",
+      "Debit": "696918",
+      "Credit": "388170"
+    },
+    {
+      "BatchNo": 25,
+      "Date": "2023-06-23T20:08:58.519Z",
+      "Descr": "ICICI TRANSACTION pt0se1",
+      "AC_Sub": "LOAN",
+      "ACNO": "pt0se1",
+      "Status": "inactive",
+      "Debit": "726623",
+      "Credit": "138044"
+    },
+    {
+      "BatchNo": 25,
+      "Date": "2024-01-06T06:29:08.923Z",
+      "Descr": "PNB TRANSACTION f7225o",
+      "AC_Sub": "LT",
+      "ACNO": "f7225o",
+      "Status": "inactive",
+      "Debit": "1078978",
+      "Credit": "284050"
+    },
+    {
+      "BatchNo": 25,
+      "Date": "2024-08-20T22:43:23.341Z",
+      "Descr": "ICICI TRANSACTION p4eugn",
+      "AC_Sub": "ST",
+      "ACNO": "p4eugn",
+      "Status": "inactive",
+      "Debit": "145765",
+      "Credit": "44246"
+    },
+    {
+      "BatchNo": 26,
+      "Date": "2024-05-09T14:18:12.332Z",
+      "Descr": "PNB TRANSACTION er4lqj",
+      "AC_Sub": "LOAN",
+      "ACNO": "er4lqj",
+      "Status": "inactive",
+      "Debit": "1649301",
+      "Credit": "383744"
+    },
+    {
+      "BatchNo": 26,
+      "Date": "2023-03-06T03:42:48.049Z",
+      "Descr": "ICICI TRANSACTION 83dugg",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "83dugg",
+      "Status": "active",
+      "Debit": "1021536",
+      "Credit": "331866"
+    },
+    {
+      "BatchNo": 26,
+      "Date": "2023-05-14T11:59:42.018Z",
+      "Descr": "UNION TRANSACTION u6htgr",
+      "AC_Sub": "CASH",
+      "ACNO": "u6htgr",
+      "Status": "pending",
+      "Debit": "669550",
+      "Credit": "68124"
+    },
+    {
+      "BatchNo": 26,
+      "Date": "2023-03-03T02:25:25.147Z",
+      "Descr": "HDFC TRANSACTION 6wpreg",
+      "AC_Sub": "CASH",
+      "ACNO": "6wpreg",
+      "Status": "inactive",
+      "Debit": "335906",
+      "Credit": "236437"
+    },
+    {
+      "BatchNo": 26,
+      "Date": "2023-01-12T22:55:59.804Z",
+      "Descr": "UNION TRANSACTION v36v0d",
+      "AC_Sub": "ST",
+      "ACNO": "v36v0d",
+      "Status": "pending",
+      "Debit": "1334714",
+      "Credit": "357899"
+    },
+    {
+      "BatchNo": 26,
+      "Date": "2024-05-25T21:41:57.181Z",
+      "Descr": "BOB TRANSACTION 430964",
+      "AC_Sub": "LOAN",
+      "ACNO": "430964",
+      "Status": "inactive",
+      "Debit": "690551",
+      "Credit": "499875"
+    },
+    {
+      "BatchNo": 26,
+      "Date": "2023-07-30T23:40:40.204Z",
+      "Descr": "BOB TRANSACTION vmkeui",
+      "AC_Sub": "BANK",
+      "ACNO": "vmkeui",
+      "Status": "active",
+      "Debit": "1697871",
+      "Credit": "214408"
+    },
+    {
+      "BatchNo": 26,
+      "Date": "2024-06-10T16:07:57.143Z",
+      "Descr": "AXIS TRANSACTION goszqb",
+      "AC_Sub": "CASH",
+      "ACNO": "goszqb",
+      "Status": "active",
+      "Debit": "449709",
+      "Credit": "104894"
+    },
+    {
+      "BatchNo": 26,
+      "Date": "2025-01-22T04:46:51.799Z",
+      "Descr": "UNION TRANSACTION 50l75q",
+      "AC_Sub": "CASH",
+      "ACNO": "50l75q",
+      "Status": "inactive",
+      "Debit": "429354",
+      "Credit": "342645"
+    },
+    {
+      "BatchNo": 26,
+      "Date": "2024-07-03T03:31:32.204Z",
+      "Descr": "ICICI TRANSACTION xu4m0n",
+      "AC_Sub": "CASH",
+      "ACNO": "xu4m0n",
+      "Status": "pending",
+      "Debit": "1534361",
+      "Credit": "367490"
+    },
+    {
+      "BatchNo": 27,
+      "Date": "2024-10-25T18:05:28.833Z",
+      "Descr": "UNION TRANSACTION r4uclj",
+      "AC_Sub": "LT",
+      "ACNO": "r4uclj",
+      "Status": "active",
+      "Debit": "732201",
+      "Credit": "307634"
+    },
+    {
+      "BatchNo": 27,
+      "Date": "2025-01-11T13:41:01.783Z",
+      "Descr": "ICICI TRANSACTION 4uozjo",
+      "AC_Sub": "CASH",
+      "ACNO": "4uozjo",
+      "Status": "pending",
+      "Debit": "481938",
+      "Credit": "15379"
+    },
+    {
+      "BatchNo": 27,
+      "Date": "2023-11-01T01:25:53.705Z",
+      "Descr": "PNB TRANSACTION omrbn9",
+      "AC_Sub": "ST",
+      "ACNO": "omrbn9",
+      "Status": "inactive",
+      "Debit": "591227",
+      "Credit": "235284"
+    },
+    {
+      "BatchNo": 27,
+      "Date": "2024-10-11T13:59:53.713Z",
+      "Descr": "PNB TRANSACTION bvncen",
+      "AC_Sub": "LOAN",
+      "ACNO": "bvncen",
+      "Status": "active",
+      "Debit": "1156408",
+      "Credit": "499716"
+    },
+    {
+      "BatchNo": 27,
+      "Date": "2024-05-09T02:52:10.665Z",
+      "Descr": "AXIS TRANSACTION ehj3ww",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "ehj3ww",
+      "Status": "active",
+      "Debit": "1058356",
+      "Credit": "234686"
+    },
+    {
+      "BatchNo": 27,
+      "Date": "2024-01-11T01:18:06.101Z",
+      "Descr": "HDFC TRANSACTION twe46k",
+      "AC_Sub": "CASH",
+      "ACNO": "twe46k",
+      "Status": "active",
+      "Debit": "1690793",
+      "Credit": "395973"
+    },
+    {
+      "BatchNo": 27,
+      "Date": "2023-03-06T14:37:18.462Z",
+      "Descr": "UNION TRANSACTION 80f0e1",
+      "AC_Sub": "ST",
+      "ACNO": "80f0e1",
+      "Status": "inactive",
+      "Debit": "1147920",
+      "Credit": "382606"
+    },
+    {
+      "BatchNo": 27,
+      "Date": "2023-10-11T08:08:11.085Z",
+      "Descr": "HDFC TRANSACTION 2758h5",
+      "AC_Sub": "LT",
+      "ACNO": "2758h5",
+      "Status": "inactive",
+      "Debit": "1064761",
+      "Credit": "412937"
+    },
+    {
+      "BatchNo": 27,
+      "Date": "2025-01-30T02:29:33.904Z",
+      "Descr": "HDFC TRANSACTION k0471a",
+      "AC_Sub": "ST",
+      "ACNO": "k0471a",
+      "Status": "pending",
+      "Debit": "400665",
+      "Credit": "343053"
+    },
+    {
+      "BatchNo": 27,
+      "Date": "2024-01-25T18:54:08.262Z",
+      "Descr": "BOB TRANSACTION lvyg6c",
+      "AC_Sub": "LOAN",
+      "ACNO": "lvyg6c",
+      "Status": "active",
+      "Debit": "1689195",
+      "Credit": "302463"
+    },
+    {
+      "BatchNo": 28,
+      "Date": "2023-08-05T18:15:37.622Z",
+      "Descr": "BOB TRANSACTION ugjw6f",
+      "AC_Sub": "LOAN",
+      "ACNO": "ugjw6f",
+      "Status": "active",
+      "Debit": "1300241",
+      "Credit": "326800"
+    },
+    {
+      "BatchNo": 28,
+      "Date": "2023-10-08T08:58:45.023Z",
+      "Descr": "HDFC TRANSACTION eruujc",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "eruujc",
+      "Status": "active",
+      "Debit": "1764911",
+      "Credit": "299642"
+    },
+    {
+      "BatchNo": 28,
+      "Date": "2024-02-22T17:07:48.020Z",
+      "Descr": "UNION TRANSACTION progsx",
+      "AC_Sub": "LOAN",
+      "ACNO": "progsx",
+      "Status": "inactive",
+      "Debit": "1720944",
+      "Credit": "112777"
+    },
+    {
+      "BatchNo": 28,
+      "Date": "2023-10-12T20:51:19.714Z",
+      "Descr": "UNION TRANSACTION a3onxb",
+      "AC_Sub": "CURRENT",
+      "ACNO": "a3onxb",
+      "Status": "active",
+      "Debit": "466662",
+      "Credit": "267528"
+    },
+    {
+      "BatchNo": 28,
+      "Date": "2024-02-12T12:50:17.703Z",
+      "Descr": "AXIS TRANSACTION vrrcha",
+      "AC_Sub": "LOAN",
+      "ACNO": "vrrcha",
+      "Status": "inactive",
+      "Debit": "23604",
+      "Credit": "292862"
+    },
+    {
+      "BatchNo": 28,
+      "Date": "2024-07-03T11:15:00.710Z",
+      "Descr": "HDFC TRANSACTION m7x6pn",
+      "AC_Sub": "CURRENT",
+      "ACNO": "m7x6pn",
+      "Status": "active",
+      "Debit": "1655670",
+      "Credit": "416451"
+    },
+    {
+      "BatchNo": 28,
+      "Date": "2023-12-14T14:14:33.898Z",
+      "Descr": "ICICI TRANSACTION cflhu6",
+      "AC_Sub": "BANK",
+      "ACNO": "cflhu6",
+      "Status": "active",
+      "Debit": "1692840",
+      "Credit": "294347"
+    },
+    {
+      "BatchNo": 28,
+      "Date": "2025-01-23T06:29:08.321Z",
+      "Descr": "BOB TRANSACTION 7xgay7",
+      "AC_Sub": "LT",
+      "ACNO": "7xgay7",
+      "Status": "active",
+      "Debit": "224868",
+      "Credit": "23241"
+    },
+    {
+      "BatchNo": 28,
+      "Date": "2024-11-05T02:16:24.735Z",
+      "Descr": "PNB TRANSACTION 6qdmzx",
+      "AC_Sub": "LOAN",
+      "ACNO": "6qdmzx",
+      "Status": "inactive",
+      "Debit": "283166",
+      "Credit": "327097"
+    },
+    {
+      "BatchNo": 28,
+      "Date": "2024-10-10T00:14:52.891Z",
+      "Descr": "BOB TRANSACTION rha5l8",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "rha5l8",
+      "Status": "pending",
+      "Debit": "1294671",
+      "Credit": "373396"
+    },
+    {
+      "BatchNo": 29,
+      "Date": "2024-06-20T15:20:06.076Z",
+      "Descr": "AXIS TRANSACTION t4xhuu",
+      "AC_Sub": "BANK",
+      "ACNO": "t4xhuu",
+      "Status": "inactive",
+      "Debit": "1435067",
+      "Credit": "406619"
+    },
+    {
+      "BatchNo": 29,
+      "Date": "2023-12-07T04:38:05.779Z",
+      "Descr": "BOB TRANSACTION sf9yxd",
+      "AC_Sub": "ST",
+      "ACNO": "sf9yxd",
+      "Status": "pending",
+      "Debit": "171131",
+      "Credit": "369738"
+    },
+    {
+      "BatchNo": 29,
+      "Date": "2023-07-06T08:32:53.949Z",
+      "Descr": "ICICI TRANSACTION i8shx2",
+      "AC_Sub": "LT",
+      "ACNO": "i8shx2",
+      "Status": "inactive",
+      "Debit": "620704",
+      "Credit": "247546"
+    },
+    {
+      "BatchNo": 29,
+      "Date": "2024-12-01T16:33:35.788Z",
+      "Descr": "UNION TRANSACTION 44gj4o",
+      "AC_Sub": "CASH",
+      "ACNO": "44gj4o",
+      "Status": "pending",
+      "Debit": "412742",
+      "Credit": "147167"
+    },
+    {
+      "BatchNo": 29,
+      "Date": "2023-12-18T06:17:17.149Z",
+      "Descr": "BOB TRANSACTION buvkcd",
+      "AC_Sub": "CURRENT",
+      "ACNO": "buvkcd",
+      "Status": "inactive",
+      "Debit": "1950430",
+      "Credit": "101928"
+    },
+    {
+      "BatchNo": 29,
+      "Date": "2024-12-15T05:23:54.019Z",
+      "Descr": "UNION TRANSACTION yj8u46",
+      "AC_Sub": "CASH",
+      "ACNO": "yj8u46",
+      "Status": "active",
+      "Debit": "951570",
+      "Credit": "235564"
+    },
+    {
+      "BatchNo": 29,
+      "Date": "2023-08-29T22:31:55.770Z",
+      "Descr": "BOB TRANSACTION 35jbaj",
+      "AC_Sub": "CURRENT",
+      "ACNO": "35jbaj",
+      "Status": "inactive",
+      "Debit": "1243207",
+      "Credit": "444991"
+    },
+    {
+      "BatchNo": 29,
+      "Date": "2024-06-17T23:10:01.682Z",
+      "Descr": "UNION TRANSACTION h24pci",
+      "AC_Sub": "LT",
+      "ACNO": "h24pci",
+      "Status": "active",
+      "Debit": "3938",
+      "Credit": "93883"
+    },
+    {
+      "BatchNo": 29,
+      "Date": "2023-12-06T23:15:39.603Z",
+      "Descr": "BOB TRANSACTION rmv7uo",
+      "AC_Sub": "LT",
+      "ACNO": "rmv7uo",
+      "Status": "pending",
+      "Debit": "1732498",
+      "Credit": "284707"
+    },
+    {
+      "BatchNo": 29,
+      "Date": "2023-04-08T23:59:15.046Z",
+      "Descr": "BOB TRANSACTION z4bmv5",
+      "AC_Sub": "BANK",
+      "ACNO": "z4bmv5",
+      "Status": "inactive",
+      "Debit": "1603603",
+      "Credit": "257066"
+    },
+    {
+      "BatchNo": 30,
+      "Date": "2024-04-27T21:38:09.310Z",
+      "Descr": "HDFC TRANSACTION muofc7",
+      "AC_Sub": "CASH",
+      "ACNO": "muofc7",
+      "Status": "pending",
+      "Debit": "1460839",
+      "Credit": "294823"
+    },
+    {
+      "BatchNo": 30,
+      "Date": "2023-07-19T00:17:17.277Z",
+      "Descr": "PNB TRANSACTION 55zw3n",
+      "AC_Sub": "LT",
+      "ACNO": "55zw3n",
+      "Status": "inactive",
+      "Debit": "1794853",
+      "Credit": "382701"
+    },
+    {
+      "BatchNo": 30,
+      "Date": "2024-10-07T01:18:47.688Z",
+      "Descr": "BOB TRANSACTION 54ejdj",
+      "AC_Sub": "SAVINGS",
+      "ACNO": "54ejdj",
+      "Status": "pending",
+      "Debit": "1484907",
+      "Credit": "273905"
+    },
+    {
+      "BatchNo": 30,
+      "Date": "2024-08-27T18:55:05.373Z",
+      "Descr": "HDFC TRANSACTION 8nj2ao",
+      "AC_Sub": "LT",
+      "ACNO": "8nj2ao",
+      "Status": "active",
+      "Debit": "168014",
+      "Credit": "441140"
+    },
+    {
+      "BatchNo": 30,
+      "Date": "2023-11-29T10:45:45.501Z",
+      "Descr": "SBI TRANSACTION zsdrhi",
+      "AC_Sub": "LOAN",
+      "ACNO": "zsdrhi",
+      "Status": "inactive",
+      "Debit": "1176841",
+      "Credit": "486657"
+    },
+    {
+      "BatchNo": 30,
+      "Date": "2024-05-24T06:45:53.776Z",
+      "Descr": "AXIS TRANSACTION w1sf1m",
+      "AC_Sub": "CASH",
+      "ACNO": "w1sf1m",
+      "Status": "inactive",
+      "Debit": "1150416",
+      "Credit": "7595"
+    },
+    {
+      "BatchNo": 30,
+      "Date": "2024-03-19T12:20:20.043Z",
+      "Descr": "BOB TRANSACTION 9cxbeg",
+      "AC_Sub": "CURRENT",
+      "ACNO": "9cxbeg",
+      "Status": "active",
+      "Debit": "1713065",
+      "Credit": "170224"
+    },
+    {
+      "BatchNo": 30,
+      "Date": "2024-06-07T23:25:00.198Z",
+      "Descr": "BOB TRANSACTION olnwg6",
+      "AC_Sub": "CASH",
+      "ACNO": "olnwg6",
+      "Status": "pending",
+      "Debit": "1502937",
+      "Credit": "453845"
+    },
+    {
+      "BatchNo": 30,
+      "Date": "2024-05-10T06:07:42.878Z",
+      "Descr": "SBI TRANSACTION 07kyo0",
+      "AC_Sub": "LOAN",
+      "ACNO": "07kyo0",
+      "Status": "inactive",
+      "Debit": "207403",
+      "Credit": "224856"
+    },
+    {
+      "BatchNo": 30,
+      "Date": "2024-03-22T08:13:52.654Z",
+      "Descr": "UNION TRANSACTION mq1fs1",
+      "AC_Sub": "BANK",
+      "ACNO": "mq1fs1",
+      "Status": "active",
+      "Debit": "1916517",
+      "Credit": "438024"
+    }
+  ]
+}
